@@ -1,0 +1,1001 @@
+id_cliente,nombre_cliente,tipo_cliente,segmento_cliente,fecha_apertura,edad,region,ingreso_anual,puntuacion_credito,empleado_asignado,sucursal_principal,activo
+EF4FC95C,Tracey Travis,VIP,Nuevo,2014-01-02,25,Internacional,1850764.1,0,Connor Ellis,Sucursal 9 - Centro,False
+2AC70154,Diaz-Becker,Gobierno,Corporativo,2017-06-11,0,Oeste,1617946.28,0,Dennis Rojas,Sucursal 9 - Centro,True
+E02507A7,"Day, Graham and Middleton",ONG,Nuevo,2015-07-12,0,Internacional,1904823.16,0,Stephen George,Sucursal 14 - Norte,False
+92EE8AFB,Julie Underwood,VIP,Corporativo,2017-02-04,75,Centro,1766299.33,0,Brenda Richards,Sucursal 2 - Sur,False
+C47A1156,"Barber, Jones and Thompson",Empresa,Plata,2014-05-23,0,Metropolitana,2335145.46,0,John Simpson,Sucursal 20 - Este,True
+C346C33B,"Wolfe, Barker and Lara",Empresa,Bronce,2012-05-07,0,Este,4694609.84,0,William Carpenter,Sucursal 13 - Centro,False
+829005E1,"Spencer, Fields and Hernandez",Empresa,Nuevo,2020-06-27,0,Oeste,4622617.06,0,Brenda Richards,Sucursal 20 - Este,False
+234AE080,Nguyen-Mills,Empresa,Institucional,2018-06-23,0,Centro,946239.38,0,Gina Gill,Sucursal 2 - Sur,True
+27371E59,Zachary Mccoy,Estudiante,Institucional,2023-08-07,74,Metropolitana,1130282.02,0,Peter Johnson,Sucursal 15 - Sur,True
+6572DD4D,Alicia Taylor,VIP,Diamante,2021-08-09,25,Este,1625191.5,0,Joseph Arnold,Sucursal 12 - Sur,False
+8ECDAC0F,Erika Stephens,Jubilado,Diamante,2022-06-26,73,Norte,2514061.47,0,Ashley Nielsen,Sucursal 20 - Este,False
+88FFBC21,Logan LLC,Gobierno,Oro,2023-06-22,0,Oeste,3790602.58,0,Amanda Nguyen,Sucursal 8 - Oeste,False
+E93BF61A,Edward Mahoney,Jubilado,Diamante,2013-04-04,22,Norte,2223278.33,0,Denise Brown,Sucursal 20 - Este,False
+09EEE7F2,Andrew Johnson,Individual,Institucional,2020-11-09,73,Metropolitana,30556.69,412,Jared Herman,Sucursal 15 - Sur,False
+52E7254D,"Delgado, Moore and Wood",PYME,Corporativo,2012-07-19,0,Metropolitana,727091.7,590,Kelly Floyd,Sucursal 10 - Norte,False
+F806FF47,Coleman-Boyd,Empresa,Diamante,2021-11-20,0,Oeste,691035.88,0,Amanda Nguyen,Sucursal 3 - Este,False
+CC24801D,Chad Knight,Jubilado,Nuevo,2010-10-17,60,Norte,2004420.21,0,Justin Skinner,Sucursal 11 - Centro,True
+E5866C0A,Lee-Carney,PYME,Bronce,2018-11-22,0,Internacional,2112148.36,519,Connor Ellis,Sucursal 13 - Centro,True
+12981616,Sara Hill,Individual,Institucional,2011-07-04,57,Norte,314491.36,401,Gina Gill,Sucursal 9 - Centro,True
+FDD1694D,Mrs. Emily Smith,Estudiante,Plata,2020-04-07,38,Internacional,3421145.33,0,Timothy Robertson,Sucursal 6 - Oeste,True
+FEF01C2D,"Blake, Anderson and Carey",Empresa,Institucional,2018-06-13,0,Centro,3757070.52,0,Luis Francis,Sucursal 12 - Sur,True
+59DA0FBD,Cox-Baker,Gobierno,Plata,2011-10-01,0,Metropolitana,4997768.97,0,Connor Ellis,Sucursal 9 - Centro,False
+1B183DD3,David Graves,Jubilado,Institucional,2011-11-17,31,Metropolitana,2094346.93,0,Jason Miller,Sucursal 20 - Este,False
+6E364259,Flores Ltd,ONG,Oro,2018-07-16,0,Centro,875775.86,0,Amanda Nguyen,Sucursal 3 - Este,False
+045AED3F,Kenneth Davis,Estudiante,Diamante,2011-06-14,18,Norte,1559483.77,0,Gina Gill,Sucursal 8 - Oeste,False
+CE7C9A56,Hayden and Sons,ONG,Nuevo,2012-04-21,0,Sur,3362882.56,0,Tiffany Chavez,Sucursal 5 - Oeste,True
+E8330B0B,"Gates, Henry and Wilson",Empresa,Bronce,2020-08-01,0,Sur,4528422.75,0,Scott Hines,Sucursal 8 - Oeste,False
+8C3F296C,Johnson Group,Empresa,Oro,2012-06-28,0,Oeste,4088704.67,0,Megan Thomas,Sucursal 15 - Sur,False
+ED89CB6C,Stevenson Ltd,Gobierno,Diamante,2010-08-30,0,Metropolitana,3429847.88,0,John Simpson,Sucursal 4 - Norte,True
+6D2F2F6B,Johnson Ltd,PYME,Platino,2011-09-12,0,Este,294702.3,330,Joseph Arnold,Sucursal 19 - Norte,False
+D104CA4B,"Spears, Davis and Moore",ONG,Bronce,2015-10-15,0,Este,1888333.29,0,Larry Moore,Sucursal 6 - Oeste,True
+0724A064,Lewis-Suarez,Gobierno,Platino,2023-11-01,0,Oeste,3435308.92,0,Dennis Rojas,Sucursal 10 - Norte,False
+9D43B971,Devin May,Jubilado,Corporativo,2016-04-28,56,Metropolitana,4782603.14,0,Jared Herman,Sucursal 11 - Centro,True
+8B109A1A,Patterson PLC,Empresa,Diamante,2010-11-07,0,Centro,1352959.19,0,Patricia Anderson,Sucursal 12 - Sur,True
+675B5716,Scott Saunders,VIP,Oro,2023-12-25,68,Internacional,3777137.47,0,Deborah Fitzgerald,Sucursal 14 - Norte,False
+3487681C,Stewart PLC,ONG,Corporativo,2014-05-26,0,Centro,577001.94,0,Jason Miller,Sucursal 19 - Norte,False
+0760E0BD,Erickson-Hernandez,PYME,Corporativo,2021-06-09,0,Este,4635275.43,552,Anthony Andrews,Sucursal 11 - Centro,True
+7B7389AA,"Tucker, Patterson and Taylor",PYME,Bronce,2021-11-16,0,Internacional,4773927.67,592,William Brown,Sucursal 7 - Norte,False
+C5A22CDE,Adams-Mccormick,Empresa,Bronce,2021-02-16,0,Norte,2156430.39,0,Anthony Andrews,Sucursal 15 - Sur,True
+A57EA693,William Lester,Estudiante,Diamante,2019-01-03,25,Este,2386424.4,0,Robin Oneill,Sucursal 2 - Sur,False
+B385EC58,Nash Group,Gobierno,Platino,2014-08-10,0,Internacional,518044.7,0,Ernest Brown,Sucursal 1 - Oeste,False
+A96F44F8,David Patton,Estudiante,Platino,2014-08-13,63,Sur,2646947.88,0,David Wilson,Sucursal 16 - Centro,False
+8159DCDF,Johnson Inc,Empresa,Plata,2016-02-03,0,Norte,577633.83,0,Timothy Robertson,Sucursal 11 - Centro,False
+3EFA110E,Peter Davies,Jubilado,Diamante,2010-06-12,77,Centro,687340.21,0,Robin Oneill,Sucursal 6 - Oeste,False
+C9E28871,Blake Griffin,Estudiante,Plata,2010-07-21,24,Centro,324430.06,0,Gregory Nash,Sucursal 10 - Norte,True
+FAD20038,Justin Crawford,VIP,Bronce,2016-06-15,59,Centro,1190848.52,0,Mr. Michael Sutton III,Sucursal 12 - Sur,False
+E4EDF138,Dr. Melissa Oconnor,Estudiante,Bronce,2011-06-06,48,Centro,648397.46,0,Timothy Robertson,Sucursal 7 - Norte,False
+C8FC772F,Brandy Richardson,VIP,Diamante,2023-10-29,43,Metropolitana,1233022.3,0,Walter Price,Sucursal 2 - Sur,True
+8FB888E2,Matthew Wolf,Estudiante,Nuevo,2014-12-05,76,Centro,2287197.32,0,Peter Johnson,Sucursal 16 - Centro,True
+F5B05964,Brown-Clark,PYME,Platino,2023-07-24,0,Internacional,1790861.64,466,Darlene Mueller,Sucursal 10 - Norte,False
+48B8C8D2,Christie Miller,Estudiante,Institucional,2011-02-03,71,Norte,4491523.84,0,Jared Herman,Sucursal 17 - Norte,True
+F6BE5751,Brown and Sons,Empresa,Nuevo,2011-09-23,0,Centro,2081398.54,0,Denise Brown,Sucursal 3 - Este,True
+77713961,"Pearson, Ferguson and Rodriguez",Empresa,Bronce,2018-08-05,0,Oeste,1452398.26,0,Jeremy Lane,Sucursal 4 - Norte,True
+905296CD,James Santos,Individual,Oro,2020-01-28,55,Este,71768.61,378,Ms. Hannah Dixon,Sucursal 5 - Oeste,True
+0FECC7D7,Matthew Blankenship,Jubilado,Diamante,2022-05-20,19,Internacional,3451196.75,0,Connor Ellis,Sucursal 11 - Centro,True
+6E52C833,Clark and Sons,ONG,Bronce,2014-01-18,0,Metropolitana,4358497.78,0,Scott Warner,Sucursal 4 - Norte,False
+41636CA4,Brown LLC,ONG,Plata,2018-04-02,0,Este,2509876.44,0,Courtney Davis,Sucursal 18 - Oeste,False
+8E786141,"Cline, Myers and Bailey",Gobierno,Corporativo,2011-07-05,0,Norte,175949.87,0,Peter Johnson,Sucursal 2 - Sur,True
+C3A841B8,Wilson-Cohen,PYME,Nuevo,2015-10-26,0,Oeste,492004.01,592,Darlene Mueller,Sucursal 1 - Oeste,False
+EB664033,White Group,Gobierno,Bronce,2023-04-06,0,Norte,338444.36,0,Mr. Michael Sutton III,Sucursal 15 - Sur,False
+5C2E561B,Flores-Porter,Empresa,Nuevo,2022-04-15,0,Oeste,732709.99,0,Jacob Ochoa,Sucursal 2 - Sur,True
+3AF90E0C,Stephens PLC,PYME,Corporativo,2011-12-01,0,Este,617860.87,630,Tiffany Chavez,Sucursal 19 - Norte,False
+5AC1014E,"Swanson, Sherman and Peterson",Empresa,Bronce,2013-02-20,0,Norte,3021234.84,0,Amanda Nguyen,Sucursal 7 - Norte,False
+0BF615F3,"Davis, Carr and Sanchez",Gobierno,Corporativo,2017-11-23,0,Sur,4282406.09,0,Timothy Robertson,Sucursal 14 - Norte,True
+1EF4F2E0,Yvonne Anderson,Jubilado,Institucional,2013-07-13,39,Oeste,204662.02,0,Deborah Fitzgerald,Sucursal 4 - Norte,True
+342DD546,Sims-Meyer,Gobierno,Institucional,2010-03-12,0,Internacional,631112.38,0,Luis Francis,Sucursal 12 - Sur,True
+7FA01A57,Hamilton-Evans,Gobierno,Platino,2018-07-06,0,Internacional,4590702.23,0,Lisa Bishop,Sucursal 10 - Norte,False
+048955E6,Ricky Downs,Jubilado,Platino,2016-03-19,32,Sur,3202765.93,0,Joseph Arnold,Sucursal 2 - Sur,False
+13CE672A,Linda Rodriguez,VIP,Nuevo,2021-02-28,19,Sur,4925453.73,0,Robin Oneill,Sucursal 20 - Este,False
+983CD515,Richardson-Chen,Empresa,Oro,2019-11-02,0,Norte,2584946.07,0,Jacob Ochoa,Sucursal 7 - Norte,False
+F6AF330A,Johnson-Moses,Empresa,Bronce,2022-08-06,0,Centro,1711785.43,0,Sherry Ball,Sucursal 19 - Norte,False
+4FD82F6A,Potter Ltd,Empresa,Platino,2020-06-10,0,Norte,4378231.37,0,William Carpenter,Sucursal 13 - Centro,True
+2EF892AB,Roger Clark,VIP,Oro,2016-03-13,47,Oeste,4943352.92,0,Tasha Ferguson,Sucursal 3 - Este,True
+594FB13B,Hall LLC,ONG,Platino,2016-04-12,0,Sur,1578005.11,0,Brenda Richards,Sucursal 13 - Centro,True
+8990A8F4,Brown-Hernandez,Gobierno,Platino,2012-11-28,0,Internacional,2111812.56,0,Larry Moore,Sucursal 10 - Norte,True
+EC054A7A,Gabriel Glover,Estudiante,Bronce,2022-02-12,37,Este,4554883.16,0,Peter Johnson,Sucursal 19 - Norte,True
+808565E3,Gonzales-Thomas,Empresa,Oro,2019-08-08,0,Norte,3899701.05,0,Peter Johnson,Sucursal 14 - Norte,False
+C159067B,Kelly Palmer,Estudiante,Corporativo,2015-05-01,78,Este,4493916.82,0,Gregory Nash,Sucursal 14 - Norte,True
+46204DE3,Michael Bean,Individual,Corporativo,2010-07-31,44,Centro,63392.15,472,Courtney Davis,Sucursal 3 - Este,False
+1C4E577C,"Ross, Gutierrez and Bright",PYME,Diamante,2014-09-13,0,Internacional,1493771.06,649,Larry Moore,Sucursal 6 - Oeste,True
+8F5472B7,John Blake,Estudiante,Diamante,2022-08-06,74,Oeste,422004.41,0,Dennis Rojas,Sucursal 3 - Este,True
+1669D4E9,Richard Matthews,Individual,Nuevo,2023-05-10,44,Centro,372704.14,435,Gina Gill,Sucursal 15 - Sur,False
+5D87EBDB,Patterson-Watkins,ONG,Bronce,2020-12-29,0,Metropolitana,2077188.81,0,Tiffany Chavez,Sucursal 11 - Centro,True
+13E1CD5C,"Collins, Reeves and Miller",Gobierno,Oro,2022-05-15,0,Metropolitana,4584321.73,0,Peter Johnson,Sucursal 5 - Oeste,False
+A14A3D0B,"Brown, Simmons and Hunt",Empresa,Institucional,2017-06-15,0,Sur,2931106.4,0,Lisa Bishop,Sucursal 7 - Norte,True
+62C7646F,Colleen Rogers,VIP,Diamante,2022-09-27,45,Este,3520640.73,0,Scott Hines,Sucursal 9 - Centro,False
+7E306E9D,Kellie Anderson,Jubilado,Institucional,2016-11-05,21,Metropolitana,608322.19,0,Anthony Andrews,Sucursal 12 - Sur,False
+AD9ECAB9,Acosta Group,PYME,Bronce,2013-10-06,0,Centro,3049339.4,751,Dennis Rojas,Sucursal 15 - Sur,False
+058397CE,Curtis Brown,Jubilado,Institucional,2018-12-02,22,Metropolitana,1295922.69,0,Theresa Zavala,Sucursal 11 - Centro,True
+2ADC646E,John Mcguire,VIP,Plata,2015-11-08,31,Oeste,4927542.94,0,Amanda Nguyen,Sucursal 2 - Sur,False
+820067AE,"Morales, Smith and Edwards",Empresa,Institucional,2012-05-20,0,Este,2686018.12,0,Robin Oneill,Sucursal 18 - Oeste,True
+D312C158,Jones Inc,ONG,Bronce,2013-04-04,0,Sur,4258891.34,0,William Brown,Sucursal 16 - Centro,False
+753965CF,Laurie Williams,Jubilado,Nuevo,2021-10-28,38,Norte,977852.5,0,Amber Turner,Sucursal 18 - Oeste,False
+147186B6,Amy White,Jubilado,Platino,2010-02-15,62,Norte,3739010.47,0,Larry Moore,Sucursal 15 - Sur,True
+835F9BF1,Davis LLC,Empresa,Plata,2016-07-09,0,Centro,379548.9,0,Tiffany Chavez,Sucursal 14 - Norte,True
+ABB1106A,Abigail Mcfarland,VIP,Platino,2022-05-26,60,Norte,2252978.0,0,Amber Turner,Sucursal 18 - Oeste,False
+D0F266B5,Johnson-Morales,Gobierno,Oro,2018-10-20,0,Centro,4334324.54,0,Kristin Elliott,Sucursal 4 - Norte,False
+38D69BD2,"Snyder, Ortiz and Chambers",Gobierno,Institucional,2011-12-16,0,Metropolitana,668880.24,0,Tasha Ferguson,Sucursal 13 - Centro,True
+FFC63C5A,Kevin Carter,Estudiante,Plata,2016-09-23,27,Este,956902.56,0,Walter Price,Sucursal 20 - Este,False
+6DBB7442,Kathy Anderson,VIP,Plata,2019-10-02,28,Este,1873877.63,0,Scott Warner,Sucursal 5 - Oeste,False
+839B3647,"Thomas, Mckee and Diaz",ONG,Oro,2016-10-12,0,Oeste,4137891.49,0,Amanda Nguyen,Sucursal 8 - Oeste,True
+DE15C453,Lopez-Wells,PYME,Plata,2015-03-05,0,Sur,4230464.71,400,Anthony Andrews,Sucursal 11 - Centro,False
+A9C22C08,Heather Allen,VIP,Plata,2020-12-24,25,Centro,2173149.59,0,Connor Ellis,Sucursal 13 - Centro,True
+406B0AF4,Matthews-Scott,PYME,Plata,2012-12-02,0,Norte,3662265.74,628,Luis Francis,Sucursal 9 - Centro,True
+E7D7055E,Chloe Landry,Jubilado,Nuevo,2015-11-06,36,Sur,4117336.22,0,Tiffany Chavez,Sucursal 20 - Este,False
+E31366DA,James Campbell,Jubilado,Nuevo,2020-06-26,30,Internacional,2532123.0,0,Michael Alvarez Jr.,Sucursal 17 - Norte,True
+FD292036,Kevin Warner,Individual,Plata,2011-08-31,51,Centro,373828.97,829,Michael Alvarez Jr.,Sucursal 20 - Este,True
+6F87CF21,Morgan Inc,Empresa,Diamante,2015-09-10,0,Internacional,1672507.66,0,Jacob Ochoa,Sucursal 16 - Centro,True
+43283882,Charles Brooks,VIP,Diamante,2023-06-08,61,Metropolitana,4897564.43,0,Denise Brown,Sucursal 16 - Centro,True
+94BBD24B,Gutierrez-Day,Empresa,Oro,2015-01-27,0,Oeste,3619248.16,0,Lauren Haynes,Sucursal 11 - Centro,False
+94BACD0A,Flores-Martin,Gobierno,Corporativo,2016-09-25,0,Oeste,2312478.08,0,David Wilson,Sucursal 9 - Centro,True
+5295B070,"Crosby, Sims and Young",Gobierno,Nuevo,2012-04-03,0,Oeste,275012.24,0,Patricia Anderson,Sucursal 9 - Centro,False
+15CA1BF2,Kim Thompson,Jubilado,Oro,2016-10-10,65,Metropolitana,3260454.7,0,William Carpenter,Sucursal 6 - Oeste,True
+EBDD6DE4,Michael Cox,Individual,Bronce,2022-10-04,77,Internacional,425468.52,816,Jason Miller,Sucursal 8 - Oeste,False
+8FE50997,William Estrada,Estudiante,Plata,2019-03-09,59,Oeste,1149102.87,0,Stephen George,Sucursal 16 - Centro,False
+52472381,Valerie Robinson,Jubilado,Bronce,2020-09-23,75,Internacional,3816893.6,0,Lauren Haynes,Sucursal 11 - Centro,False
+49CC2742,Travis Wood,VIP,Diamante,2018-05-08,38,Centro,2603215.54,0,Juan Hoover,Sucursal 5 - Oeste,False
+F7AAD75F,Christopher Gomez,Individual,Nuevo,2015-08-15,71,Oeste,18588.12,377,Natalie White,Sucursal 4 - Norte,True
+343178DB,Stephanie Russell DDS,Estudiante,Plata,2013-12-04,30,Internacional,2618250.1,0,William Carpenter,Sucursal 2 - Sur,False
+ACA201AC,Wilson-Jenkins,Empresa,Nuevo,2014-01-08,0,Internacional,4841213.92,0,Michael Alvarez Jr.,Sucursal 4 - Norte,False
+EEDA2462,Adams-Cunningham,Empresa,Plata,2015-02-19,0,Centro,2481919.82,0,Jeremy Lane,Sucursal 7 - Norte,False
+5C55D896,Jeremy Smith,Jubilado,Institucional,2015-10-28,21,Oeste,4665765.31,0,Justin Skinner,Sucursal 6 - Oeste,False
+BA914E97,Jacob Hayes,Individual,Plata,2013-02-07,47,Internacional,291635.38,677,Courtney Davis,Sucursal 3 - Este,False
+7BCD2359,Jill Miranda,VIP,Bronce,2012-05-15,26,Metropolitana,1057555.09,0,William Brown,Sucursal 6 - Oeste,False
+FDC7D93F,Susan Anderson DDS,Individual,Corporativo,2016-10-12,47,Metropolitana,316810.61,567,Denise Brown,Sucursal 12 - Sur,False
+3B822746,Dana Hayes,Jubilado,Plata,2015-03-07,38,Sur,2626636.59,0,Lauren Haynes,Sucursal 5 - Oeste,False
+A9EB9E92,Stephen Mason,VIP,Institucional,2012-02-07,29,Oeste,1728114.03,0,Jason Jones,Sucursal 4 - Norte,True
+09433121,Davis-Johnston,PYME,Diamante,2019-06-26,0,Metropolitana,4374637.03,334,Amber Turner,Sucursal 2 - Sur,False
+ADE453F5,Rebecca Smith,Individual,Corporativo,2013-02-19,76,Centro,316838.2,328,Jeremy Lane,Sucursal 6 - Oeste,False
+8801B168,Cruz and Sons,ONG,Diamante,2014-04-19,0,Sur,1332572.38,0,Jacob Ochoa,Sucursal 10 - Norte,False
+550BF7C8,Emily Leonard,VIP,Diamante,2012-10-10,43,Norte,991330.0,0,Luis Francis,Sucursal 12 - Sur,True
+35B7E29F,Lawrence Morrison,Estudiante,Diamante,2016-05-16,60,Internacional,3297783.47,0,Kelly Floyd,Sucursal 8 - Oeste,True
+EB8A3BE2,Moore PLC,Gobierno,Bronce,2016-01-17,0,Centro,69086.34,0,Justin Skinner,Sucursal 8 - Oeste,False
+4643955B,Reese-Reynolds,PYME,Nuevo,2015-09-23,0,Metropolitana,4465937.47,545,John Simpson,Sucursal 11 - Centro,False
+53A875ED,Amanda Rivas,Individual,Institucional,2015-07-18,42,Este,404556.26,353,Larry Moore,Sucursal 12 - Sur,True
+669F9F06,Micheal Hardy,VIP,Diamante,2013-08-28,69,Metropolitana,462096.17,0,Deborah Fitzgerald,Sucursal 5 - Oeste,False
+C629B80C,Pam Mckee,VIP,Platino,2019-10-15,74,Oeste,1771472.45,0,Tasha Ferguson,Sucursal 18 - Oeste,False
+79BB40B8,Heather Gonzales,VIP,Institucional,2016-10-13,44,Norte,963898.22,0,Dennis Rojas,Sucursal 10 - Norte,False
+2FB22AFA,"Gregory, Rhodes and Simpson",PYME,Nuevo,2017-12-21,0,Sur,3637125.8,659,Courtney Davis,Sucursal 18 - Oeste,True
+177C080D,Ronald Robinson,VIP,Platino,2022-08-08,35,Sur,4881316.58,0,Robin Oneill,Sucursal 3 - Este,True
+1880CC6E,Coffey PLC,ONG,Platino,2021-09-18,0,Metropolitana,4290431.62,0,Gina Gill,Sucursal 15 - Sur,False
+57D80F09,Bryce Campbell,Jubilado,Institucional,2011-12-11,58,Este,4872884.75,0,Justin Skinner,Sucursal 12 - Sur,False
+6A9BD24F,Matthew Gomez,Jubilado,Diamante,2017-03-05,58,Sur,4797379.2,0,Jeremy Lane,Sucursal 20 - Este,True
+0E5A924D,Davis and Sons,Gobierno,Nuevo,2020-11-04,0,Oeste,3907019.7,0,Natalie White,Sucursal 10 - Norte,True
+4AB651F6,Nielsen Group,Gobierno,Institucional,2012-02-21,0,Internacional,3620110.69,0,Darlene Mueller,Sucursal 14 - Norte,True
+8A94F9F7,Sonia Gibbs,VIP,Institucional,2019-01-06,26,Sur,275431.93,0,Joseph Arnold,Sucursal 19 - Norte,True
+4EAF9C66,Freeman LLC,Empresa,Plata,2023-12-31,0,Internacional,4542443.96,0,Juan Hoover,Sucursal 14 - Norte,False
+84072847,Kimberly Harvey,Individual,Plata,2017-09-10,52,Oeste,198742.01,782,Courtney Davis,Sucursal 3 - Este,True
+D65B6D21,"Lang, Pham and Luna",Gobierno,Platino,2020-09-27,0,Oeste,1826211.74,0,Lisa Bishop,Sucursal 17 - Norte,False
+326BA4A7,Gibson PLC,PYME,Nuevo,2017-09-08,0,Sur,2330699.83,751,Ernest Brown,Sucursal 7 - Norte,False
+20E7D063,Patricia Glover,Jubilado,Diamante,2014-03-20,38,Este,4977481.63,0,Jeremy Lane,Sucursal 9 - Centro,True
+4E7BFA89,Karen Baker,VIP,Diamante,2013-02-16,29,Este,1264516.9,0,Walter Price,Sucursal 2 - Sur,False
+CD7D3551,Duran-Osborne,Empresa,Nuevo,2012-02-06,0,Sur,2798086.09,0,Ms. Hannah Dixon,Sucursal 8 - Oeste,False
+82AAF649,"Hodges, Black and Gray",PYME,Plata,2012-05-16,0,Internacional,1224210.37,757,Ms. Hannah Dixon,Sucursal 3 - Este,False
+79BA048E,Barbara Molina,Jubilado,Oro,2017-12-25,40,Este,4594335.38,0,Larry Moore,Sucursal 19 - Norte,True
+2A32A990,Beck and Sons,ONG,Nuevo,2016-04-15,0,Sur,1920110.8,0,Patricia Anderson,Sucursal 15 - Sur,True
+E879257D,"Freeman, Pham and Harrison",ONG,Bronce,2013-09-20,0,Este,3051914.06,0,Peter Johnson,Sucursal 1 - Oeste,True
+15A846C8,Kimberly Turner,Estudiante,Plata,2023-05-21,67,Internacional,3213763.52,0,Megan Thomas,Sucursal 12 - Sur,False
+3E156AA6,"West, Hart and Wright",ONG,Platino,2011-06-05,0,Este,3549401.88,0,Connor Ellis,Sucursal 9 - Centro,False
+11090943,Brandi Hooper,VIP,Corporativo,2016-06-14,41,Oeste,4725542.8,0,Lisa Bishop,Sucursal 8 - Oeste,False
+8AC5D157,Michael Powers,VIP,Diamante,2016-12-21,30,Norte,4905035.41,0,Megan Thomas,Sucursal 4 - Norte,True
+DA9A9A24,Hansen Ltd,Empresa,Nuevo,2010-01-26,0,Este,585989.0,0,Theresa Zavala,Sucursal 20 - Este,True
+CFCF284E,Gary Wilson,Estudiante,Nuevo,2022-05-13,27,Metropolitana,643691.9,0,Timothy Robertson,Sucursal 17 - Norte,True
+45C6B986,Phillips Ltd,ONG,Nuevo,2019-12-06,0,Este,4647250.79,0,Gina Gill,Sucursal 20 - Este,True
+AFD91E70,"Blake, Brown and Schwartz",Empresa,Plata,2018-12-14,0,Oeste,3163382.47,0,Walter Price,Sucursal 20 - Este,False
+188F6ED8,Stacey Baldwin MD,VIP,Corporativo,2021-01-25,71,Metropolitana,3896024.89,0,Timothy Robertson,Sucursal 13 - Centro,True
+06B0082B,Robert Carr,Estudiante,Diamante,2019-05-24,57,Metropolitana,1773486.25,0,Stephen George,Sucursal 3 - Este,False
+D127B6ED,Lisa Dean,Jubilado,Plata,2017-04-18,65,Este,3774296.61,0,John Simpson,Sucursal 16 - Centro,False
+069DE163,Kurt Lopez,Estudiante,Corporativo,2011-07-30,30,Internacional,977301.2,0,Ashley Nielsen,Sucursal 5 - Oeste,True
+C80CC727,Scott Hall,VIP,Bronce,2019-11-06,56,Sur,861831.96,0,Walter Price,Sucursal 13 - Centro,False
+5C639CBB,Curtis Inc,ONG,Bronce,2012-02-08,0,Este,3214549.17,0,Jason Jones,Sucursal 15 - Sur,True
+7EDCE41A,Dean Group,PYME,Diamante,2014-12-08,0,Oeste,4831031.7,700,Jacob Ochoa,Sucursal 1 - Oeste,False
+A4D7AB04,Miller LLC,ONG,Corporativo,2013-04-20,0,Este,1143035.55,0,Scott Hines,Sucursal 13 - Centro,True
+4D541D5B,Tasha Cruz,Individual,Diamante,2012-01-11,79,Metropolitana,284951.0,359,Connor Ellis,Sucursal 12 - Sur,False
+EDFFB4E5,Christina Walker,VIP,Bronce,2023-08-28,51,Metropolitana,515086.83,0,Scott Warner,Sucursal 9 - Centro,False
+99AF4B4E,Yvonne Woods,VIP,Plata,2019-01-28,43,Este,1807438.13,0,Jason Jones,Sucursal 9 - Centro,False
+FBE35F9D,Nicole Perez,VIP,Oro,2015-01-25,51,Centro,4699962.87,0,Darlene Mueller,Sucursal 15 - Sur,True
+24041342,Christina Johnson,Individual,Oro,2017-04-13,49,Este,298137.8,843,Theresa Zavala,Sucursal 4 - Norte,True
+3CB16B5E,"Phillips, Rowe and Martinez",ONG,Oro,2011-03-17,0,Internacional,3132576.05,0,Lisa Bishop,Sucursal 4 - Norte,False
+3DA25F93,Paul Jackson,VIP,Bronce,2010-04-05,74,Internacional,4043043.06,0,Tiffany Chavez,Sucursal 9 - Centro,True
+B634A614,"Villarreal, Ray and Johnson",Gobierno,Plata,2020-10-26,0,Este,4441280.48,0,Tasha Ferguson,Sucursal 9 - Centro,False
+3B05BBC2,Medina Inc,Empresa,Platino,2017-09-17,0,Este,1519219.49,0,Scott Warner,Sucursal 12 - Sur,True
+2D739243,Chelsea Medina,Jubilado,Diamante,2010-04-30,54,Metropolitana,1049566.36,0,Denise Brown,Sucursal 20 - Este,True
+6CE15191,"Ramirez, Williams and Ibarra",Empresa,Corporativo,2016-09-07,0,Metropolitana,3993805.12,0,Gina Gill,Sucursal 4 - Norte,True
+3F56CA44,Jennifer Walters,Individual,Plata,2012-05-19,23,Norte,286931.72,564,Larry Moore,Sucursal 1 - Oeste,False
+C4073FB8,Maxwell-Kim,Empresa,Bronce,2023-10-04,0,Centro,1041493.59,0,Gina Gill,Sucursal 17 - Norte,True
+9E3628A6,Eric Lopez,Estudiante,Nuevo,2016-02-26,24,Este,1376273.88,0,Natalie White,Sucursal 17 - Norte,True
+1F3A9D79,Jennifer Martinez DDS,Individual,Institucional,2023-04-11,20,Oeste,456019.19,438,John Simpson,Sucursal 4 - Norte,True
+3D34B8AA,Kristin Torres,Estudiante,Oro,2021-08-10,36,Internacional,1646443.36,0,Justin Skinner,Sucursal 20 - Este,True
+CA3566B2,Jose Hall,Individual,Oro,2010-10-21,64,Internacional,475383.62,786,Michael Alvarez Jr.,Sucursal 19 - Norte,False
+993707ED,Chavez Ltd,Empresa,Diamante,2010-10-24,0,Internacional,3947120.62,0,Tasha Ferguson,Sucursal 2 - Sur,True
+083EF443,Green LLC,ONG,Nuevo,2022-08-01,0,Sur,3343580.68,0,Denise Brown,Sucursal 7 - Norte,True
+5C324954,Davis PLC,Empresa,Plata,2023-05-21,0,Metropolitana,389225.43,0,Juan Hoover,Sucursal 12 - Sur,False
+D548DDCA,Barrera PLC,Empresa,Corporativo,2011-06-29,0,Centro,3297695.03,0,Jared Herman,Sucursal 5 - Oeste,True
+C11867FD,Page Group,ONG,Platino,2021-09-24,0,Sur,905346.95,0,Kelly Floyd,Sucursal 3 - Este,True
+376BA040,"Hamilton, Schroeder and Flores",ONG,Corporativo,2023-10-29,0,Norte,1857788.65,0,Jeremy Lane,Sucursal 2 - Sur,True
+C123B40D,Ronald Martinez,Individual,Platino,2019-10-30,54,Internacional,15466.07,504,Amber Turner,Sucursal 6 - Oeste,True
+6166ED84,Marcus Guerrero,Individual,Diamante,2016-11-21,63,Oeste,156527.42,354,Sherry Ball,Sucursal 6 - Oeste,True
+FD6F6FD3,Young LLC,PYME,Institucional,2015-12-08,0,Norte,1209669.74,620,Dennis Rojas,Sucursal 1 - Oeste,False
+BF83F7E3,"Lowe, Martin and Owen",ONG,Nuevo,2016-09-24,0,Centro,4400673.09,0,Juan Hoover,Sucursal 2 - Sur,True
+19D339CA,Sanchez-Benson,Gobierno,Corporativo,2015-11-05,0,Centro,1104285.6,0,Walter Price,Sucursal 12 - Sur,False
+99F8D218,Heather Martinez,Estudiante,Plata,2017-04-30,42,Norte,4946001.65,0,Anthony Andrews,Sucursal 2 - Sur,True
+46012BDB,Gregory Buck,Jubilado,Diamante,2017-12-17,75,Sur,3434210.33,0,Patricia Anderson,Sucursal 6 - Oeste,False
+8CA1A0C9,Dana Martin,Individual,Oro,2018-12-30,21,Centro,83521.83,784,Theresa Zavala,Sucursal 4 - Norte,False
+974661CE,Daniel Tucker,VIP,Corporativo,2018-06-24,65,Centro,3536693.67,0,Amanda Nguyen,Sucursal 5 - Oeste,False
+F11CDC12,Baldwin Inc,Gobierno,Diamante,2020-06-09,0,Centro,117712.56,0,Kristin Elliott,Sucursal 20 - Este,True
+0F4E21E4,Amanda Phillips,Jubilado,Nuevo,2021-11-15,80,Este,3355779.9,0,Jacob Ochoa,Sucursal 5 - Oeste,True
+C562EB0E,"Le, Porter and Dickson",ONG,Corporativo,2013-12-09,0,Internacional,1399993.33,0,Ms. Hannah Dixon,Sucursal 4 - Norte,True
+568EDC5F,Perez and Sons,PYME,Plata,2010-01-03,0,Sur,1691750.9,656,Dennis Rojas,Sucursal 3 - Este,True
+49CDA01A,Angela Kim,Estudiante,Bronce,2021-05-28,27,Sur,1876262.23,0,Kristin Elliott,Sucursal 1 - Oeste,True
+91A8015D,Gates LLC,PYME,Nuevo,2011-10-23,0,Norte,1109888.64,830,Michael Alvarez Jr.,Sucursal 14 - Norte,True
+6998D61B,"Beasley, Castillo and Paul",PYME,Institucional,2013-07-28,0,Centro,501504.0,635,Gina Gill,Sucursal 19 - Norte,True
+21CFECAB,"Suarez, Anderson and White",ONG,Corporativo,2018-07-14,0,Sur,1601614.33,0,Scott Warner,Sucursal 16 - Centro,True
+D589BC1C,"Sanchez, Farrell and Juarez",PYME,Plata,2016-02-13,0,Centro,224691.21,566,Lisa Bishop,Sucursal 8 - Oeste,True
+6B55FCD1,Amy Carey,Individual,Plata,2012-01-11,69,Centro,449276.38,381,Ms. Hannah Dixon,Sucursal 19 - Norte,False
+0E5ABA87,Shelby Hogan,Individual,Diamante,2020-08-29,50,Oeste,116260.47,579,Denise Brown,Sucursal 15 - Sur,False
+119AB948,Mary Roberts,Individual,Platino,2019-07-23,45,Metropolitana,214844.23,381,Christopher Peterson,Sucursal 15 - Sur,False
+4E7A4D98,Tanya Goodwin,Estudiante,Platino,2019-10-30,22,Internacional,2094813.45,0,Jeremy Lane,Sucursal 9 - Centro,False
+A8F0C051,Theresa Suarez,Jubilado,Diamante,2013-02-17,35,Metropolitana,4883155.97,0,William Brown,Sucursal 2 - Sur,False
+5A064E27,Alicia Wright,Estudiante,Oro,2014-11-14,79,Internacional,1589798.26,0,William Brown,Sucursal 12 - Sur,True
+4A5DC80A,Brandon Johnson,Estudiante,Platino,2016-04-28,78,Oeste,2198153.65,0,Mr. Michael Sutton III,Sucursal 5 - Oeste,False
+5BC5CA8F,Heather Valenzuela,Jubilado,Plata,2019-06-14,37,Oeste,4156430.48,0,Ashley Nielsen,Sucursal 14 - Norte,False
+F240EC4E,Jesse Smith,Jubilado,Platino,2014-07-16,57,Oeste,4709922.4,0,Christopher Peterson,Sucursal 1 - Oeste,False
+2CB73F2F,Sara Perez,Individual,Platino,2010-07-23,53,Norte,346290.48,531,Deborah Fitzgerald,Sucursal 14 - Norte,False
+954E33FB,Joel Franco,VIP,Institucional,2017-12-04,49,Norte,4296562.9,0,Jason Miller,Sucursal 12 - Sur,True
+3E3EAD1F,Bright-Coffey,PYME,Oro,2015-07-31,0,Norte,398608.89,588,David Wilson,Sucursal 11 - Centro,True
+CB02E2FA,Scott Lee,VIP,Oro,2021-12-12,56,Sur,890302.76,0,Scott Hines,Sucursal 3 - Este,True
+7ED2BD78,Tyler Woods,VIP,Platino,2011-07-10,26,Este,2417010.04,0,Anthony Andrews,Sucursal 17 - Norte,True
+2DB2C7BA,Kim-Terry,ONG,Corporativo,2019-08-01,0,Oeste,3804674.44,0,Natalie White,Sucursal 9 - Centro,True
+A77E5A5A,"Horn, Oliver and Thompson",PYME,Platino,2019-07-22,0,Metropolitana,1280085.39,343,Mr. Michael Sutton III,Sucursal 4 - Norte,False
+8A9F5B59,Barnett PLC,ONG,Corporativo,2018-02-27,0,Centro,3008965.82,0,Scott Hines,Sucursal 2 - Sur,False
+47AF1A44,"Peterson, Robinson and Silva",Empresa,Nuevo,2023-10-23,0,Oeste,3658821.52,0,Mr. Michael Sutton III,Sucursal 16 - Centro,True
+D38649E2,Mccarthy Inc,Gobierno,Institucional,2020-06-23,0,Internacional,3446364.75,0,Jeremy Lane,Sucursal 10 - Norte,False
+17115CED,Monique Skinner,VIP,Nuevo,2015-11-05,30,Sur,2999610.68,0,Tiffany Chavez,Sucursal 3 - Este,False
+C5F2A98E,"Dennis, Zuniga and Baker",Empresa,Platino,2023-04-24,0,Metropolitana,95424.23,0,Megan Thomas,Sucursal 7 - Norte,False
+4256B453,"Hicks, Thomas and Schneider",Gobierno,Platino,2023-06-07,0,Metropolitana,1008392.53,0,Courtney Davis,Sucursal 1 - Oeste,False
+2624A19D,Brandon Castro,Jubilado,Nuevo,2019-09-24,65,Oeste,132086.0,0,Tiffany Chavez,Sucursal 13 - Centro,False
+8BDEF21C,Nicole Bates,Estudiante,Oro,2018-02-28,23,Oeste,3890815.77,0,Luis Francis,Sucursal 7 - Norte,True
+288F913C,Christopher Payne,Individual,Corporativo,2015-07-27,20,Metropolitana,343159.81,715,David Wilson,Sucursal 16 - Centro,True
+F2F0ABB0,"Kemp, Gutierrez and Brown",PYME,Bronce,2015-04-12,0,Norte,804529.5,546,Justin Skinner,Sucursal 18 - Oeste,True
+4F398FF2,Kimberly Schultz,Individual,Bronce,2012-11-14,27,Este,19040.63,615,Anthony Andrews,Sucursal 9 - Centro,False
+8B5AC463,"Gonzalez, Figueroa and Ramirez",ONG,Institucional,2010-09-18,0,Centro,4857931.27,0,Gina Gill,Sucursal 1 - Oeste,False
+8F083106,Potter-Bailey,ONG,Oro,2019-08-18,0,Oeste,4541972.74,0,Darlene Mueller,Sucursal 13 - Centro,True
+9BEC8ED1,Nelson-Anderson,Gobierno,Oro,2019-11-17,0,Oeste,278469.35,0,Christopher Peterson,Sucursal 9 - Centro,True
+0601CFAA,Nicole Gonzalez,Jubilado,Institucional,2017-04-13,21,Oeste,1872346.29,0,Ashley Nielsen,Sucursal 17 - Norte,False
+DDB5AB15,Leonard-Garcia,Gobierno,Bronce,2012-04-20,0,Norte,3020124.16,0,Luis Francis,Sucursal 7 - Norte,False
+9C1B8C17,Maria Santos,VIP,Plata,2015-01-29,69,Metropolitana,4662659.55,0,William Carpenter,Sucursal 12 - Sur,False
+684734F5,Alicia Henderson,Estudiante,Oro,2012-03-28,34,Metropolitana,3444144.97,0,Jason Miller,Sucursal 10 - Norte,False
+BD272E85,Cummings-Zimmerman,ONG,Institucional,2011-02-04,0,Norte,323119.63,0,Ms. Hannah Dixon,Sucursal 6 - Oeste,False
+569D239E,Hill PLC,ONG,Corporativo,2022-03-19,0,Norte,538602.67,0,Larry Moore,Sucursal 5 - Oeste,True
+E51224CA,Jim Bailey,VIP,Bronce,2021-04-28,39,Norte,4800366.75,0,Walter Price,Sucursal 6 - Oeste,True
+E62A56AA,"Collins, Cain and Henderson",PYME,Plata,2020-11-06,0,Centro,785505.24,707,Ashley Nielsen,Sucursal 18 - Oeste,False
+BD3798E4,Matthew Smith,Estudiante,Nuevo,2010-11-10,23,Sur,4834112.43,0,Natalie White,Sucursal 14 - Norte,False
+5FEF20D7,Susan Martin,Individual,Corporativo,2022-02-05,70,Centro,77710.21,426,Connor Ellis,Sucursal 2 - Sur,True
+3EB6EE73,"Rice, Marsh and Randolph",Empresa,Corporativo,2022-08-02,0,Oeste,1014792.82,0,Luis Francis,Sucursal 17 - Norte,False
+74DAF01A,Campbell-Campos,PYME,Institucional,2019-05-22,0,Sur,2575330.57,833,Jacob Ochoa,Sucursal 15 - Sur,True
+6053C9D5,Elizabeth Watts,Estudiante,Corporativo,2018-11-06,39,Metropolitana,325621.0,0,Deborah Fitzgerald,Sucursal 7 - Norte,True
+62FBA441,Renee Murray,VIP,Institucional,2012-08-08,21,Metropolitana,1292819.6,0,Deborah Fitzgerald,Sucursal 7 - Norte,True
+B0664C15,Dr. Rebecca Torres,Jubilado,Oro,2011-04-29,22,Internacional,3383665.4,0,Jeremy Lane,Sucursal 8 - Oeste,False
+B51FEEEE,Kimberly Cunningham,VIP,Institucional,2011-11-16,68,Internacional,2305879.77,0,Denise Brown,Sucursal 20 - Este,False
+B438104F,"Ortiz, Cohen and Alvarez",Empresa,Corporativo,2018-11-07,0,Este,1754673.75,0,Tasha Ferguson,Sucursal 8 - Oeste,True
+F386ECFA,"Jones, Johnson and Martinez",PYME,Corporativo,2013-05-31,0,Oeste,3038152.92,806,Robin Oneill,Sucursal 18 - Oeste,False
+6D792735,Alan Christian,Estudiante,Oro,2012-08-14,75,Centro,2510166.38,0,Jason Miller,Sucursal 16 - Centro,False
+1C7CE646,Eric Coleman,Individual,Corporativo,2010-11-11,77,Sur,129421.79,513,Tasha Ferguson,Sucursal 4 - Norte,True
+6CFF52D3,"Hall, King and Henderson",PYME,Plata,2019-04-26,0,Sur,4804702.77,524,Sherry Ball,Sucursal 18 - Oeste,True
+87DE1893,Matthew Hodge,VIP,Corporativo,2015-07-07,21,Metropolitana,434381.22,0,William Brown,Sucursal 3 - Este,False
+D03777CB,Melvin Watson,Jubilado,Diamante,2010-10-13,64,Internacional,1778153.83,0,Stephen George,Sucursal 12 - Sur,True
+F4CA69C2,"Davis, Johnson and Berry",ONG,Platino,2010-01-30,0,Este,4544659.92,0,Walter Price,Sucursal 4 - Norte,True
+35DE0D6C,Holmes-Gonzalez,Gobierno,Bronce,2016-09-11,0,Norte,1046085.23,0,Luis Francis,Sucursal 18 - Oeste,False
+1C2368BB,Pamela Thomas,Estudiante,Platino,2010-03-28,42,Centro,2874041.12,0,Megan Thomas,Sucursal 8 - Oeste,False
+9456F97F,Kenneth Hall,VIP,Oro,2022-08-29,54,Internacional,1169291.83,0,William Brown,Sucursal 2 - Sur,False
+26657CC1,"Patrick, Gray and Ayala",Empresa,Bronce,2022-10-03,0,Internacional,2128298.62,0,Scott Hines,Sucursal 4 - Norte,True
+5FF68831,Justin Shields,Individual,Oro,2012-02-18,38,Internacional,104337.03,475,Jared Herman,Sucursal 17 - Norte,False
+DE53A382,Benjamin Shelton,VIP,Corporativo,2011-03-21,55,Este,3240341.12,0,Scott Hines,Sucursal 8 - Oeste,False
+CD8D130F,Brittany Jones,Individual,Bronce,2011-05-16,25,Este,111931.01,473,Jared Herman,Sucursal 2 - Sur,True
+2D76AB71,Wilson-Salazar,Empresa,Platino,2015-01-23,0,Oeste,1181446.01,0,Walter Price,Sucursal 19 - Norte,False
+467AEC94,Adam Castaneda,Estudiante,Nuevo,2023-01-04,67,Metropolitana,2633765.33,0,Mr. Michael Sutton III,Sucursal 7 - Norte,True
+ACA69ECD,Barajas-Wolfe,ONG,Diamante,2011-05-13,0,Norte,3731494.37,0,Jeremy Lane,Sucursal 4 - Norte,True
+FCA95B45,"Gonzalez, Oconnell and Howe",Gobierno,Oro,2019-04-15,0,Oeste,1398316.47,0,Natalie White,Sucursal 20 - Este,False
+B7ABB3B8,Karen Gonzalez,Estudiante,Corporativo,2017-02-22,70,Sur,276089.74,0,Connor Ellis,Sucursal 18 - Oeste,True
+7957D0CE,Lisa Cobb,Jubilado,Diamante,2017-02-10,42,Norte,3171057.15,0,David Wilson,Sucursal 4 - Norte,True
+4A788D5D,"Thompson, Mcintosh and Daugherty",ONG,Corporativo,2013-01-16,0,Oeste,3497837.62,0,Ernest Brown,Sucursal 12 - Sur,True
+733D982B,Fletcher Ltd,Empresa,Nuevo,2015-06-18,0,Sur,292740.43,0,Theresa Zavala,Sucursal 6 - Oeste,True
+4E4F28DC,"Brown, May and Wilkinson",Gobierno,Diamante,2012-07-06,0,Norte,4902324.12,0,Brenda Richards,Sucursal 12 - Sur,False
+7DC6052F,Mark Torres,Estudiante,Institucional,2014-03-20,58,Este,4749763.67,0,Juan Hoover,Sucursal 6 - Oeste,False
+B23600DF,Amanda Hill,VIP,Plata,2013-05-05,42,Sur,2282363.73,0,William Carpenter,Sucursal 18 - Oeste,True
+B4EA5CDF,Adams Ltd,PYME,Institucional,2011-09-12,0,Metropolitana,491321.18,724,Kristin Elliott,Sucursal 12 - Sur,True
+A53A08EC,Kathryn Bowen,Individual,Diamante,2019-04-02,74,Internacional,191827.57,372,Darlene Mueller,Sucursal 16 - Centro,False
+6848120E,Henson-Bailey,Gobierno,Corporativo,2018-02-07,0,Centro,2102326.02,0,Robin Oneill,Sucursal 17 - Norte,True
+C1734CDC,Todd Barton,VIP,Bronce,2011-01-15,54,Sur,3409296.75,0,Amanda Nguyen,Sucursal 7 - Norte,True
+246ED807,Katie Watkins,VIP,Corporativo,2018-03-15,61,Centro,3162846.83,0,Jason Miller,Sucursal 9 - Centro,False
+18CFE974,Steven Hawkins,Jubilado,Nuevo,2013-12-18,19,Metropolitana,822577.08,0,Mr. Michael Sutton III,Sucursal 8 - Oeste,False
+F99ED698,"Carroll, Sanchez and Cruz",Empresa,Institucional,2021-04-12,0,Sur,2597616.63,0,Christopher Peterson,Sucursal 6 - Oeste,False
+BC9438E4,"Jones, Brown and Carson",Empresa,Institucional,2022-12-16,0,Sur,3998755.11,0,Gina Gill,Sucursal 2 - Sur,True
+8CD261F2,Kelly Johnson,VIP,Platino,2019-04-02,21,Este,864182.48,0,Luis Francis,Sucursal 16 - Centro,True
+D7D3B18E,Smith Ltd,Gobierno,Corporativo,2012-03-21,0,Internacional,3148710.72,0,Luis Francis,Sucursal 12 - Sur,True
+4ED7CDEB,Crawford Ltd,PYME,Plata,2021-12-12,0,Centro,3174476.26,755,Stephen George,Sucursal 19 - Norte,False
+22E8DC5F,Duncan-White,ONG,Platino,2018-03-01,0,Este,4060025.52,0,Connor Ellis,Sucursal 15 - Sur,True
+38B8F849,"Cameron, Hunter and Johnson",PYME,Platino,2021-12-25,0,Metropolitana,2580056.93,555,Deborah Fitzgerald,Sucursal 11 - Centro,True
+8E81DB8C,Heather Stone,Jubilado,Plata,2019-09-19,62,Centro,4909880.93,0,Jacob Ochoa,Sucursal 4 - Norte,False
+B1029A87,Hannah Rowe,VIP,Oro,2023-08-29,54,Norte,1236397.29,0,Kristin Elliott,Sucursal 13 - Centro,True
+9C2809B6,Andrew Lewis,Estudiante,Institucional,2017-03-20,37,Centro,1832714.48,0,Brenda Richards,Sucursal 4 - Norte,True
+40C33989,Emily Warren,Jubilado,Institucional,2011-07-01,59,Centro,249270.93,0,Jason Miller,Sucursal 13 - Centro,True
+6A3125D2,Ryan Kelly,Estudiante,Diamante,2012-04-04,45,Internacional,4472236.11,0,Justin Skinner,Sucursal 19 - Norte,False
+2DA75535,"Campbell, Allen and Mason",Empresa,Bronce,2011-06-22,0,Metropolitana,3276206.9,0,Jared Herman,Sucursal 7 - Norte,False
+B0D8706C,"Smith, Bright and Kaiser",ONG,Platino,2021-11-04,0,Sur,1276568.8,0,Amanda Nguyen,Sucursal 12 - Sur,True
+5E87F13F,Michael Powell,Jubilado,Oro,2013-07-10,66,Internacional,3227027.24,0,Jared Herman,Sucursal 11 - Centro,False
+9DD5D3FF,"Watson, Brooks and Ortiz",PYME,Corporativo,2014-10-22,0,Este,2568777.27,704,Larry Moore,Sucursal 11 - Centro,False
+561C328A,Johnson-Smith,Gobierno,Institucional,2017-05-16,0,Centro,1361190.85,0,Timothy Robertson,Sucursal 2 - Sur,True
+62013E66,Lopez and Sons,ONG,Plata,2015-09-09,0,Internacional,1030219.91,0,Jacob Ochoa,Sucursal 16 - Centro,True
+49C94A2F,Bobby Patterson,Estudiante,Nuevo,2021-09-06,68,Centro,3785528.18,0,Michael Alvarez Jr.,Sucursal 16 - Centro,True
+7CB5A0E0,Rebecca Shepard,Individual,Plata,2011-04-18,54,Norte,161456.13,593,Peter Johnson,Sucursal 6 - Oeste,True
+06265F57,Melissa Pace,VIP,Oro,2022-06-10,24,Internacional,574664.94,0,Lauren Haynes,Sucursal 4 - Norte,False
+BBB7091A,Dr. Robert Macdonald,VIP,Oro,2019-06-12,69,Norte,4812386.99,0,Anthony Andrews,Sucursal 6 - Oeste,False
+0574056D,Joe Lindsey,Estudiante,Platino,2013-12-31,38,Oeste,489934.75,0,Timothy Robertson,Sucursal 15 - Sur,False
+3B219413,Rowe Ltd,Empresa,Corporativo,2019-01-15,0,Este,2691452.26,0,Jeremy Lane,Sucursal 4 - Norte,True
+0AF5E015,Joseph Perez,Individual,Oro,2011-04-05,49,Este,437426.31,623,William Brown,Sucursal 7 - Norte,False
+C622AB11,Wright PLC,PYME,Platino,2022-01-31,0,Oeste,3644755.86,536,Lauren Haynes,Sucursal 18 - Oeste,False
+AE1BD26B,Christian Jones,Individual,Bronce,2014-04-21,77,Sur,194075.2,677,Justin Skinner,Sucursal 4 - Norte,True
+5279C037,Jeffrey Johnson,Estudiante,Nuevo,2019-02-14,24,Metropolitana,1350143.52,0,Joseph Arnold,Sucursal 4 - Norte,False
+D9DBA51A,"Rivera, White and Zuniga",PYME,Diamante,2019-12-30,0,Norte,595728.08,746,Sherry Ball,Sucursal 19 - Norte,True
+F1CE72D9,Leonard-Porter,ONG,Nuevo,2012-09-15,0,Sur,2413478.2,0,Joseph Arnold,Sucursal 12 - Sur,False
+7D72211B,Gomez and Sons,Empresa,Platino,2019-05-02,0,Internacional,2037563.86,0,John Simpson,Sucursal 2 - Sur,False
+A428463A,Christopher Hodges,Jubilado,Institucional,2011-05-13,58,Oeste,1440884.84,0,Kelly Floyd,Sucursal 10 - Norte,True
+6B7DD553,Steven Nichols,VIP,Diamante,2011-02-27,22,Metropolitana,4297489.94,0,Michael Alvarez Jr.,Sucursal 16 - Centro,False
+1F79DAE0,Dave Gonzalez,Individual,Plata,2022-02-04,74,Oeste,307143.14,464,Ernest Brown,Sucursal 12 - Sur,True
+535E29D8,Logan Guerra,Estudiante,Platino,2023-09-05,74,Norte,4676865.36,0,Megan Thomas,Sucursal 7 - Norte,False
+35E0BB05,Shaffer PLC,Gobierno,Corporativo,2013-10-15,0,Centro,4034576.13,0,Justin Skinner,Sucursal 5 - Oeste,True
+C2B9C820,"Cervantes, Collins and Rodriguez",PYME,Nuevo,2018-11-20,0,Centro,4191268.87,821,Jacob Ochoa,Sucursal 14 - Norte,False
+27DB6D87,Bradley Weaver,Jubilado,Platino,2020-11-06,68,Centro,2841905.37,0,Deborah Fitzgerald,Sucursal 9 - Centro,False
+7BD9B61C,Derrick Ross,Jubilado,Corporativo,2010-08-27,35,Oeste,2230324.58,0,Theresa Zavala,Sucursal 15 - Sur,True
+E6C1787C,Andrew Greene,Estudiante,Bronce,2014-08-21,70,Norte,625238.45,0,Tiffany Chavez,Sucursal 7 - Norte,True
+E60475E4,Scott-Harrison,Gobierno,Bronce,2017-03-23,0,Centro,2933703.15,0,Jeremy Lane,Sucursal 11 - Centro,False
+0ABF8F89,Mark Rodriguez,Estudiante,Corporativo,2016-01-02,70,Este,339876.62,0,Ashley Nielsen,Sucursal 4 - Norte,True
+39AFA54A,Young-Maxwell,Empresa,Diamante,2019-10-11,0,Oeste,3413316.63,0,Jason Jones,Sucursal 3 - Este,True
+1B06EA2F,Michael Newton,Jubilado,Nuevo,2012-11-14,53,Oeste,1424578.9,0,Gregory Nash,Sucursal 20 - Este,True
+8D304C51,Nicholas Moore,VIP,Plata,2016-05-02,22,Oeste,3630485.97,0,Courtney Davis,Sucursal 2 - Sur,False
+CA2CAA85,Jackson-Arnold,Empresa,Bronce,2010-05-17,0,Sur,3464969.87,0,Walter Price,Sucursal 10 - Norte,True
+BDE836E5,"Hogan, Santos and Peters",Gobierno,Bronce,2015-04-28,0,Oeste,4686694.38,0,Kristin Elliott,Sucursal 19 - Norte,False
+8C30FCC4,Meghan Chavez,VIP,Nuevo,2012-07-10,74,Centro,2585095.18,0,John Simpson,Sucursal 12 - Sur,True
+7128161E,Douglas Group,Empresa,Oro,2012-09-06,0,Este,182925.02,0,Peter Johnson,Sucursal 14 - Norte,False
+AD0726AE,Robert Turner,VIP,Plata,2014-12-28,43,Oeste,4768350.42,0,Courtney Davis,Sucursal 15 - Sur,False
+91160E6A,Hannah Hines,Estudiante,Oro,2017-01-20,62,Oeste,3192048.61,0,Gina Gill,Sucursal 18 - Oeste,True
+173629D6,Elizabeth Anderson,Individual,Bronce,2023-08-22,79,Norte,12038.03,360,Mr. Michael Sutton III,Sucursal 11 - Centro,False
+868D983A,Zachary Bridges,Individual,Nuevo,2021-01-28,21,Norte,315911.66,570,Michael Alvarez Jr.,Sucursal 9 - Centro,True
+CDFA3758,Angela Martinez,Individual,Diamante,2011-01-06,78,Centro,235404.58,585,Luis Francis,Sucursal 4 - Norte,False
+D511C475,Evans-Oneal,ONG,Bronce,2012-05-05,0,Centro,4444816.44,0,Timothy Robertson,Sucursal 11 - Centro,True
+4070A5F3,Paul Kim,Individual,Nuevo,2022-06-19,29,Oeste,282836.67,525,William Brown,Sucursal 10 - Norte,False
+90E7C833,"Carter, Turner and Miller",ONG,Plata,2020-01-17,0,Este,1612363.64,0,Jared Herman,Sucursal 3 - Este,False
+EF4CE035,Christopher Lopez,Individual,Diamante,2023-10-28,38,Sur,215970.82,797,Amanda Nguyen,Sucursal 12 - Sur,True
+C7E3DF18,Justin Navarro,Individual,Platino,2017-08-28,44,Norte,97751.89,643,Anthony Andrews,Sucursal 14 - Norte,True
+AB2C4E22,Jacob Hill,Individual,Platino,2018-10-22,28,Sur,238975.61,355,Megan Thomas,Sucursal 5 - Oeste,True
+567E460F,Steven Rogers,VIP,Institucional,2022-02-08,40,Norte,3363851.99,0,William Carpenter,Sucursal 19 - Norte,True
+8BA28FAA,"Bryant, Bailey and Bauer",PYME,Institucional,2022-05-05,0,Norte,4070626.73,628,Amanda Nguyen,Sucursal 10 - Norte,False
+193DC1A4,Stafford-Herrera,ONG,Institucional,2014-12-18,0,Centro,1853151.0,0,Dennis Rojas,Sucursal 17 - Norte,True
+A2322C03,Frank Lyons,Individual,Oro,2021-06-23,28,Este,100409.06,638,Stephen George,Sucursal 15 - Sur,False
+10681A93,Taylor Ltd,ONG,Bronce,2014-10-29,0,Oeste,1127794.45,0,Tasha Ferguson,Sucursal 15 - Sur,False
+5618E94C,Mariah Mcdonald,Jubilado,Bronce,2023-10-08,59,Sur,4342983.69,0,Joseph Arnold,Sucursal 16 - Centro,True
+642EF273,Baldwin PLC,Empresa,Institucional,2017-01-19,0,Sur,546648.0,0,William Brown,Sucursal 20 - Este,False
+39E02EA8,Paul Gay,Jubilado,Institucional,2011-11-20,31,Centro,612402.28,0,Dennis Rojas,Sucursal 13 - Centro,True
+015BC5E4,Schroeder LLC,PYME,Diamante,2021-04-19,0,Oeste,2591795.81,668,Amanda Nguyen,Sucursal 14 - Norte,True
+354C0C55,Stacy Reed,Individual,Institucional,2011-08-16,52,Oeste,382697.31,568,Kristin Elliott,Sucursal 7 - Norte,False
+FFD446FA,Diaz Group,ONG,Platino,2017-03-19,0,Oeste,1893801.38,0,Ernest Brown,Sucursal 9 - Centro,False
+93ACC536,Betty Stewart,Jubilado,Nuevo,2021-08-27,75,Norte,1869091.44,0,Gina Gill,Sucursal 8 - Oeste,True
+FFDD02B0,Cantu Ltd,Gobierno,Institucional,2019-12-13,0,Centro,4970467.74,0,Mr. Michael Sutton III,Sucursal 14 - Norte,False
+7FA9C15E,Carter LLC,ONG,Diamante,2018-04-02,0,Este,1161400.45,0,Robin Oneill,Sucursal 9 - Centro,True
+C65B3A35,Griffin-Barber,PYME,Institucional,2012-12-26,0,Centro,4622040.53,709,Amanda Nguyen,Sucursal 4 - Norte,False
+0F5E7D1D,"Vega, Olson and Baker",Empresa,Platino,2019-05-28,0,Metropolitana,3720212.71,0,Christopher Peterson,Sucursal 15 - Sur,False
+581E13D8,Ms. Kathleen Richardson,Jubilado,Plata,2023-06-26,25,Norte,260463.05,0,Kristin Elliott,Sucursal 20 - Este,False
+E4789ADE,Victoria Allen,VIP,Oro,2013-05-24,23,Internacional,4077138.29,0,Sherry Ball,Sucursal 3 - Este,False
+4CD148DE,Jillian Gutierrez,Estudiante,Bronce,2015-04-23,80,Este,4099982.92,0,Megan Thomas,Sucursal 3 - Este,True
+8327138A,Cunningham-Williams,PYME,Platino,2012-04-14,0,Centro,3424935.48,748,Sherry Ball,Sucursal 12 - Sur,True
+D7AA8352,Lee-Phillips,Empresa,Oro,2013-03-05,0,Centro,1758756.74,0,Kristin Elliott,Sucursal 7 - Norte,False
+02FD92F8,Maria Jones,Jubilado,Oro,2010-08-18,46,Sur,2293064.48,0,Deborah Fitzgerald,Sucursal 17 - Norte,False
+31EF5FAD,Brown Inc,PYME,Oro,2012-10-22,0,Metropolitana,3822618.98,500,Ms. Hannah Dixon,Sucursal 14 - Norte,False
+5B4E504C,"Torres, Schmitt and Johnson",ONG,Bronce,2020-07-30,0,Internacional,2075891.11,0,Tiffany Chavez,Sucursal 12 - Sur,False
+3AACCC88,Brittany Williams,VIP,Bronce,2011-04-30,24,Internacional,4147400.7,0,Scott Warner,Sucursal 8 - Oeste,False
+669B6133,"Myers, Bruce and Roach",Gobierno,Diamante,2021-11-21,0,Centro,1632216.33,0,Jared Herman,Sucursal 11 - Centro,False
+65427D57,Hill Group,PYME,Corporativo,2022-01-08,0,Centro,2167948.79,363,Robin Oneill,Sucursal 5 - Oeste,True
+02738D1A,Amy Myers,Estudiante,Plata,2015-01-26,35,Centro,1363344.01,0,Jacob Ochoa,Sucursal 3 - Este,False
+562D244E,Sexton-Gibson,ONG,Institucional,2010-07-02,0,Internacional,1689689.21,0,Joseph Arnold,Sucursal 10 - Norte,True
+181EECB6,George Miller,Jubilado,Oro,2016-08-29,52,Sur,3028415.23,0,Deborah Fitzgerald,Sucursal 9 - Centro,False
+B5431745,Rosario Ltd,Empresa,Platino,2017-08-29,0,Metropolitana,1358194.05,0,Kelly Floyd,Sucursal 12 - Sur,False
+99CA18A1,Kramer LLC,ONG,Corporativo,2011-02-11,0,Sur,386239.64,0,Mr. Michael Sutton III,Sucursal 12 - Sur,True
+5A13040A,Kathleen Young,Jubilado,Oro,2014-03-15,36,Este,3574717.53,0,Stephen George,Sucursal 16 - Centro,True
+AA7F93EB,Jennifer Griffith,Jubilado,Nuevo,2019-11-29,75,Este,2895099.39,0,Jason Jones,Sucursal 20 - Este,True
+00627930,Diaz-Morris,PYME,Oro,2011-03-19,0,Oeste,1982743.91,494,Sherry Ball,Sucursal 10 - Norte,True
+BFE93E5F,Mccarty Ltd,Gobierno,Nuevo,2011-01-17,0,Oeste,3780404.72,0,Kristin Elliott,Sucursal 9 - Centro,False
+DDF2EDAC,Aaron Miller,VIP,Bronce,2019-11-18,64,Norte,2085159.16,0,Anthony Andrews,Sucursal 19 - Norte,True
+AE72E646,Michael Grant,Estudiante,Institucional,2018-09-09,20,Metropolitana,1605575.08,0,Amanda Nguyen,Sucursal 3 - Este,False
+3E44F9BD,David Castillo,Estudiante,Corporativo,2018-06-29,30,Este,4694520.82,0,Kristin Elliott,Sucursal 19 - Norte,True
+6EE097F8,"Mata, Cherry and White",ONG,Plata,2023-01-26,0,Norte,115221.12,0,Jason Miller,Sucursal 20 - Este,False
+FEE71E50,"Ward, Patel and Price",ONG,Bronce,2018-12-24,0,Centro,1859199.63,0,Kristin Elliott,Sucursal 9 - Centro,True
+BBC7EC61,Jason Oconnor,Jubilado,Oro,2010-02-15,75,Este,4779257.56,0,Ashley Nielsen,Sucursal 20 - Este,False
+BB53A20B,Caitlin Hernandez,Individual,Diamante,2010-05-10,39,Metropolitana,365714.24,532,Walter Price,Sucursal 13 - Centro,True
+6532224D,Brittney Rivera,Individual,Institucional,2023-04-26,74,Oeste,185328.16,499,Michael Alvarez Jr.,Sucursal 3 - Este,False
+F9001262,"Jimenez, Dunlap and Jones",PYME,Bronce,2015-10-18,0,Este,437225.64,714,Stephen George,Sucursal 3 - Este,True
+621D0D48,Bailey Inc,ONG,Institucional,2014-04-03,0,Este,2275796.25,0,Scott Warner,Sucursal 17 - Norte,True
+BB5235D0,Christina Hicks,Individual,Bronce,2014-01-08,71,Oeste,304082.57,678,Deborah Fitzgerald,Sucursal 13 - Centro,False
+358DB8DC,Young LLC,ONG,Institucional,2013-03-03,0,Oeste,639208.67,0,Tasha Ferguson,Sucursal 8 - Oeste,False
+A4083EB4,Andrew Estrada,Jubilado,Platino,2013-09-09,76,Norte,1717801.78,0,Lauren Haynes,Sucursal 6 - Oeste,True
+512D3B6F,Brady and Sons,ONG,Plata,2023-06-27,0,Oeste,1628113.1,0,Sherry Ball,Sucursal 1 - Oeste,True
+0F880095,"Wheeler, Phillips and Hill",Empresa,Institucional,2012-05-30,0,Este,4338733.44,0,Natalie White,Sucursal 7 - Norte,False
+49531DB7,Mary Johnson,Estudiante,Platino,2010-07-15,28,Norte,3348947.12,0,Walter Price,Sucursal 12 - Sur,False
+4C7C7ADC,Wilkinson-Foster,Gobierno,Platino,2013-05-21,0,Oeste,3867596.57,0,Jacob Ochoa,Sucursal 14 - Norte,True
+F270E29B,Brandi Valdez,Estudiante,Diamante,2012-02-04,20,Centro,379305.36,0,William Brown,Sucursal 12 - Sur,False
+6858050B,Mark Patel,VIP,Oro,2018-01-06,60,Sur,1061466.51,0,Brenda Richards,Sucursal 2 - Sur,True
+1175F3B9,Jason Bradford,Estudiante,Nuevo,2017-11-03,52,Este,3138537.11,0,Jason Miller,Sucursal 2 - Sur,False
+606CD93A,"King, Lane and James",Empresa,Platino,2015-04-23,0,Metropolitana,2919511.74,0,Connor Ellis,Sucursal 3 - Este,False
+8F2A64E3,John Clark,Individual,Plata,2016-04-29,70,Metropolitana,233172.13,650,Jason Miller,Sucursal 3 - Este,True
+2D855E9E,Mark Ali,Individual,Nuevo,2013-02-23,57,Internacional,232332.73,312,Ms. Hannah Dixon,Sucursal 17 - Norte,True
+E7FBFA68,Hayes-Freeman,Empresa,Plata,2019-04-13,0,Sur,3519160.28,0,Mr. Michael Sutton III,Sucursal 10 - Norte,True
+61629E5A,Carol Herrera,Estudiante,Diamante,2018-02-23,45,Internacional,445580.16,0,Jacob Ochoa,Sucursal 10 - Norte,False
+1B8C24B3,Sally Conrad,Individual,Diamante,2014-03-16,78,Este,482161.95,311,Kelly Floyd,Sucursal 14 - Norte,False
+447E6079,King-Johnson,Gobierno,Nuevo,2015-06-30,0,Norte,2568578.28,0,Tiffany Chavez,Sucursal 15 - Sur,True
+2839EDFB,"Harrison, Marshall and Waters",Gobierno,Oro,2023-01-08,0,Metropolitana,2829110.8,0,Christopher Peterson,Sucursal 1 - Oeste,True
+6B5F3391,Julia Greene,VIP,Corporativo,2011-11-29,31,Oeste,178600.16,0,Natalie White,Sucursal 6 - Oeste,False
+666580E4,Brandi Kirby,VIP,Nuevo,2013-05-07,69,Este,286419.15,0,Jeremy Lane,Sucursal 15 - Sur,True
+D2E99D6F,Jillian Clark,VIP,Oro,2013-01-05,60,Internacional,3655534.19,0,Courtney Davis,Sucursal 9 - Centro,True
+F1D7F930,Eduardo Fleming,Individual,Bronce,2022-08-28,22,Sur,332355.0,624,Joseph Arnold,Sucursal 8 - Oeste,True
+3FB22A5B,Robert Green,Individual,Diamante,2014-02-09,23,Internacional,69831.92,469,Scott Hines,Sucursal 8 - Oeste,True
+9482C04F,Osborne Inc,PYME,Institucional,2023-07-26,0,Metropolitana,4848808.06,344,Anthony Andrews,Sucursal 2 - Sur,False
+B268F7BD,Walter-Adams,ONG,Platino,2010-09-29,0,Sur,2878372.52,0,Joseph Arnold,Sucursal 16 - Centro,True
+32C0323F,Lauren Williams,Individual,Plata,2014-04-04,62,Metropolitana,442528.41,588,Gregory Nash,Sucursal 9 - Centro,True
+1F6D2493,Martinez Ltd,PYME,Diamante,2014-08-12,0,Centro,3358013.19,303,Lisa Bishop,Sucursal 1 - Oeste,False
+F195D5AE,Stephanie Lamb,Jubilado,Oro,2010-11-22,51,Internacional,2474487.72,0,Kelly Floyd,Sucursal 7 - Norte,False
+5B967266,Blackwell Group,Gobierno,Bronce,2010-05-17,0,Este,2794757.34,0,Brenda Richards,Sucursal 16 - Centro,True
+7578D6E6,Alvarado-Davis,Empresa,Diamante,2015-04-21,0,Sur,2171022.77,0,Megan Thomas,Sucursal 4 - Norte,True
+E576BBF6,Megan Lawson,Individual,Institucional,2018-08-06,65,Centro,414807.42,465,Ms. Hannah Dixon,Sucursal 18 - Oeste,True
+232A5E0A,"Cox, Jones and Velez",ONG,Diamante,2023-02-26,0,Metropolitana,4164037.04,0,Anthony Andrews,Sucursal 8 - Oeste,False
+852F584A,Christopher Smith,Individual,Corporativo,2021-02-08,67,Internacional,136975.71,644,Brenda Richards,Sucursal 7 - Norte,True
+34EEFC2C,Rose Mitchell,Jubilado,Nuevo,2013-08-26,28,Centro,3981528.46,0,Gregory Nash,Sucursal 11 - Centro,True
+13340685,Mark Graham,VIP,Corporativo,2019-05-10,56,Este,3116447.68,0,Gina Gill,Sucursal 7 - Norte,True
+089A0E8D,"Lewis, Curry and Cherry",Empresa,Corporativo,2012-01-10,0,Norte,544541.85,0,William Brown,Sucursal 17 - Norte,False
+F9E15BE3,"Carroll, Dawson and Sullivan",Empresa,Bronce,2015-04-09,0,Metropolitana,3489533.6,0,Deborah Fitzgerald,Sucursal 18 - Oeste,True
+91C8FDD8,Crystal Tucker,Jubilado,Plata,2010-06-02,64,Este,2578092.47,0,Ms. Hannah Dixon,Sucursal 15 - Sur,False
+FD29434F,Crystal Ward,Individual,Bronce,2011-08-11,73,Este,246357.12,571,Scott Warner,Sucursal 3 - Este,True
+3E20869E,"Ingram, Monroe and Merritt",PYME,Corporativo,2019-12-06,0,Oeste,791801.41,714,Amanda Nguyen,Sucursal 15 - Sur,True
+D63279C2,Diane Jones,Individual,Institucional,2014-09-13,49,Oeste,459990.67,619,Brenda Richards,Sucursal 15 - Sur,False
+B6F0E17A,"Avila, Campbell and Hamilton",Gobierno,Bronce,2016-01-25,0,Oeste,1055184.99,0,Megan Thomas,Sucursal 14 - Norte,False
+702A08E9,Fox and Sons,ONG,Plata,2010-11-01,0,Metropolitana,2554419.07,0,Courtney Davis,Sucursal 17 - Norte,False
+6F394064,Graham-Walker,PYME,Plata,2018-07-27,0,Norte,4019711.49,831,Jason Miller,Sucursal 14 - Norte,False
+CFE9C82A,"Rogers, Lee and Ford",Gobierno,Plata,2017-10-11,0,Norte,1961794.45,0,Megan Thomas,Sucursal 15 - Sur,False
+8AFAFE12,Jonathan Moore,Estudiante,Nuevo,2022-06-09,69,Internacional,289065.55,0,Ashley Nielsen,Sucursal 19 - Norte,False
+5DBE64AC,Stephen Murray,Individual,Plata,2018-06-01,45,Oeste,252771.76,649,Gregory Nash,Sucursal 1 - Oeste,True
+4521490C,Justin Dodson,VIP,Nuevo,2010-05-09,61,Sur,4084921.83,0,Amanda Nguyen,Sucursal 10 - Norte,False
+CE3C4AF0,Richard Richardson,Estudiante,Corporativo,2014-03-20,25,Sur,2279842.84,0,Peter Johnson,Sucursal 16 - Centro,True
+FBDBEE01,Dalton Ltd,Empresa,Bronce,2015-04-25,0,Sur,4632427.53,0,Walter Price,Sucursal 9 - Centro,True
+B73D494A,Jeffrey Hamilton,VIP,Plata,2013-12-08,19,Norte,4513899.68,0,Lisa Bishop,Sucursal 17 - Norte,False
+CD3B5B48,Stacy Ferguson,Jubilado,Institucional,2014-01-13,74,Este,4503825.24,0,Kelly Floyd,Sucursal 12 - Sur,False
+4A56B5B7,Gallagher-Ray,PYME,Institucional,2018-07-19,0,Sur,2014868.02,784,Gregory Nash,Sucursal 2 - Sur,False
+6D157BA9,Rhonda Garcia,Individual,Oro,2020-03-19,19,Internacional,466642.88,308,Joseph Arnold,Sucursal 14 - Norte,True
+A4DA5D89,Mark Taylor,Jubilado,Corporativo,2018-08-14,45,Centro,660653.87,0,Kristin Elliott,Sucursal 20 - Este,False
+9B10E32E,Mathis-Owen,Gobierno,Plata,2021-09-08,0,Sur,1680192.25,0,Robin Oneill,Sucursal 10 - Norte,True
+0DF88224,David and Sons,PYME,Diamante,2015-02-12,0,Norte,3531914.3,590,Gregory Nash,Sucursal 3 - Este,True
+9912F80C,Beth Payne,Jubilado,Oro,2013-10-22,21,Internacional,3284554.0,0,Jared Herman,Sucursal 16 - Centro,True
+C29C3D02,Melissa Stout,Jubilado,Oro,2012-08-02,80,Metropolitana,2720717.77,0,Jason Jones,Sucursal 10 - Norte,True
+A39A94E5,Jessica Davis,Estudiante,Nuevo,2018-04-05,20,Sur,4254038.15,0,Kelly Floyd,Sucursal 3 - Este,False
+B9E348BA,Stephen Austin,Estudiante,Corporativo,2021-10-21,19,Metropolitana,4029853.74,0,John Simpson,Sucursal 10 - Norte,True
+CAD94810,Christopher Rivera,Individual,Platino,2022-03-22,64,Centro,495468.32,507,Jacob Ochoa,Sucursal 2 - Sur,False
+1D5A2A38,William Williams,VIP,Diamante,2010-02-26,73,Metropolitana,3644601.8,0,Robin Oneill,Sucursal 8 - Oeste,True
+AA403C78,Erica Patterson,Estudiante,Oro,2018-04-27,52,Internacional,4247453.39,0,Peter Johnson,Sucursal 4 - Norte,True
+18C3BD76,Marks-Rice,Empresa,Platino,2013-03-23,0,Internacional,3111303.8,0,Gina Gill,Sucursal 19 - Norte,False
+C87DCE19,Diana Brown,Jubilado,Institucional,2016-02-17,41,Este,348800.66,0,Ms. Hannah Dixon,Sucursal 19 - Norte,False
+172171E1,Alyssa Smith,Estudiante,Plata,2022-02-17,56,Oeste,4648015.27,0,Juan Hoover,Sucursal 4 - Norte,True
+01EEC54D,Emily Johns,VIP,Nuevo,2017-10-04,74,Este,3183970.72,0,Peter Johnson,Sucursal 2 - Sur,False
+385159FD,Jordan Davidson,VIP,Plata,2018-01-25,66,Internacional,1019134.08,0,Tasha Ferguson,Sucursal 8 - Oeste,False
+D70318CF,Taylor LLC,PYME,Platino,2019-11-30,0,Norte,3387741.45,550,Lauren Haynes,Sucursal 6 - Oeste,False
+08A5D165,Lauren Phillips,Estudiante,Institucional,2018-03-09,25,Metropolitana,2056472.61,0,Patricia Anderson,Sucursal 2 - Sur,True
+793763D4,Patrick Fernandez,Estudiante,Oro,2023-09-29,46,Norte,4356578.6,0,Kelly Floyd,Sucursal 7 - Norte,False
+535117DE,Dorothy Giles,VIP,Bronce,2010-06-07,19,Oeste,390417.26,0,Lisa Bishop,Sucursal 2 - Sur,True
+C75C4C90,Williams PLC,PYME,Institucional,2016-07-04,0,Sur,2000467.96,615,Amber Turner,Sucursal 6 - Oeste,True
+401DA744,Delacruz-Hayes,Gobierno,Platino,2012-06-06,0,Internacional,3058224.2,0,Joseph Arnold,Sucursal 9 - Centro,False
+B62C8A5F,Nicholas Montoya,Estudiante,Diamante,2022-03-31,74,Norte,600540.38,0,Michael Alvarez Jr.,Sucursal 10 - Norte,False
+5FF4B6AE,John Zhang,VIP,Plata,2019-03-02,65,Este,1856599.16,0,Sherry Ball,Sucursal 10 - Norte,True
+67A4C560,Hart Group,Gobierno,Nuevo,2014-08-15,0,Metropolitana,4542621.14,0,John Simpson,Sucursal 13 - Centro,False
+A984AFD2,"Lee, King and Stanley",Empresa,Platino,2018-12-28,0,Norte,2180681.43,0,Jacob Ochoa,Sucursal 6 - Oeste,True
+4098613D,"Peterson, Ryan and Cohen",PYME,Bronce,2013-06-10,0,Este,1539771.99,641,Denise Brown,Sucursal 8 - Oeste,False
+06A573E8,Jackson-Orozco,PYME,Bronce,2011-08-08,0,Metropolitana,3874788.63,775,Christopher Peterson,Sucursal 7 - Norte,True
+CC4ED3F6,Michele Horn,Estudiante,Platino,2020-10-02,52,Centro,2047620.4,0,Jason Miller,Sucursal 14 - Norte,False
+45C99FDB,"Klein, Thompson and Jenkins",ONG,Plata,2014-08-23,0,Este,3553010.66,0,Natalie White,Sucursal 1 - Oeste,True
+768064DF,Daniel Chavez,Jubilado,Corporativo,2018-09-11,58,Internacional,3439943.24,0,Jason Miller,Sucursal 18 - Oeste,False
+E528FEF0,Angela Moreno,Estudiante,Corporativo,2023-03-03,29,Oeste,714376.47,0,Peter Johnson,Sucursal 11 - Centro,False
+2F12E526,Danny Cherry,Estudiante,Oro,2014-10-04,20,Metropolitana,2502086.03,0,Sherry Ball,Sucursal 7 - Norte,True
+9FB23D7E,Taylor-Huff,Gobierno,Platino,2011-08-15,0,Este,4395807.7,0,Theresa Zavala,Sucursal 19 - Norte,False
+4C45CB4C,Bell and Sons,Empresa,Bronce,2013-04-12,0,Este,4595107.93,0,William Brown,Sucursal 19 - Norte,True
+098D6495,Fisher Inc,Empresa,Oro,2013-07-30,0,Metropolitana,4589749.99,0,Juan Hoover,Sucursal 17 - Norte,False
+EE80390A,Anderson-Salinas,Empresa,Bronce,2012-01-30,0,Internacional,2875881.74,0,Timothy Robertson,Sucursal 3 - Este,False
+F8A5B580,Brian Cook,Estudiante,Platino,2018-09-16,18,Oeste,1631976.36,0,Juan Hoover,Sucursal 20 - Este,True
+3881D1CF,Amanda Lam,VIP,Bronce,2017-09-23,72,Norte,1957638.11,0,John Simpson,Sucursal 8 - Oeste,True
+3BCD65B0,Amber Grant,Jubilado,Diamante,2017-02-11,20,Norte,2486574.51,0,Theresa Zavala,Sucursal 17 - Norte,False
+5369FC74,Flynn PLC,Gobierno,Plata,2014-05-15,0,Metropolitana,3509638.95,0,Jared Herman,Sucursal 9 - Centro,True
+71C87D24,Jade Hall,Estudiante,Platino,2011-10-13,67,Oeste,3377408.69,0,Courtney Davis,Sucursal 4 - Norte,True
+4E31FDB0,Angela Martin,Estudiante,Platino,2014-09-09,43,Este,703460.3,0,Natalie White,Sucursal 20 - Este,True
+4B74402E,Tyler Evans,Jubilado,Bronce,2013-01-09,33,Internacional,1349945.55,0,Larry Moore,Sucursal 1 - Oeste,False
+331BABE8,Jones Ltd,Empresa,Diamante,2010-12-16,0,Este,1337596.04,0,Amber Turner,Sucursal 12 - Sur,True
+B7082420,"Smith, Williams and Russell",Empresa,Plata,2023-04-25,0,Sur,4660484.2,0,Timothy Robertson,Sucursal 1 - Oeste,True
+D2E0FD00,Michael Mills,Jubilado,Plata,2015-12-22,50,Metropolitana,2799731.54,0,Kristin Elliott,Sucursal 19 - Norte,False
+FB0BD36B,Mindy Navarro,Jubilado,Oro,2022-11-20,70,Internacional,1459136.2,0,Scott Hines,Sucursal 5 - Oeste,True
+403725A9,Erickson Group,PYME,Platino,2014-09-15,0,Norte,930512.59,660,John Simpson,Sucursal 2 - Sur,True
+7EF48D22,Davis-Peters,Gobierno,Platino,2013-04-02,0,Este,3558112.61,0,Anthony Andrews,Sucursal 12 - Sur,False
+FC0079B4,Long Ltd,Gobierno,Corporativo,2014-06-25,0,Sur,3759649.52,0,Mr. Michael Sutton III,Sucursal 18 - Oeste,False
+65606A55,"Hampton, Powell and Martinez",Empresa,Platino,2017-09-28,0,Norte,3675741.04,0,William Brown,Sucursal 1 - Oeste,True
+9460431E,Perez-Willis,Gobierno,Nuevo,2015-03-11,0,Metropolitana,236529.97,0,Lauren Haynes,Sucursal 3 - Este,False
+C9C272B4,Hunt-Smith,Gobierno,Plata,2012-04-17,0,Internacional,2197174.99,0,Gregory Nash,Sucursal 3 - Este,False
+5A70481E,Lori Coleman,Individual,Bronce,2018-11-12,44,Centro,369407.94,647,Ms. Hannah Dixon,Sucursal 14 - Norte,True
+CEE92CBF,Christopher Wade,Estudiante,Bronce,2017-10-09,26,Centro,4766430.87,0,Deborah Fitzgerald,Sucursal 13 - Centro,True
+BC312987,"Thomas, Harris and Pena",Empresa,Bronce,2021-11-30,0,Metropolitana,1280953.06,0,Jacob Ochoa,Sucursal 12 - Sur,False
+1DC6B210,Mendez PLC,ONG,Institucional,2016-06-24,0,Norte,4542935.16,0,Tasha Ferguson,Sucursal 10 - Norte,True
+3D304F16,Garcia-Rice,Empresa,Platino,2018-01-28,0,Norte,2901811.72,0,Scott Warner,Sucursal 13 - Centro,False
+0A917BED,Paul Morris,Individual,Bronce,2010-04-30,79,Centro,246686.48,535,Kelly Floyd,Sucursal 17 - Norte,False
+7860549A,Jerome Johnson,Jubilado,Nuevo,2019-02-20,36,Sur,2657494.25,0,Justin Skinner,Sucursal 4 - Norte,False
+F1126D2F,Eduardo Carter,VIP,Corporativo,2010-07-27,50,Metropolitana,1945381.95,0,Christopher Peterson,Sucursal 17 - Norte,True
+48FF1750,"Norman, Ward and Monroe",ONG,Platino,2017-04-03,0,Norte,2881639.29,0,Jacob Ochoa,Sucursal 8 - Oeste,True
+56F2E3C2,"Mathews, Daniel and Sanchez",Gobierno,Diamante,2015-06-30,0,Norte,2355209.42,0,Jacob Ochoa,Sucursal 20 - Este,False
+5DFE7839,"Woods, Wilson and Patterson",ONG,Corporativo,2014-05-25,0,Oeste,655799.47,0,Deborah Fitzgerald,Sucursal 18 - Oeste,False
+09A310BA,Oneal Inc,Gobierno,Platino,2022-02-23,0,Metropolitana,1681073.27,0,Jacob Ochoa,Sucursal 20 - Este,False
+2FA6B31C,"Bowen, Peters and Lawson",Empresa,Platino,2017-06-22,0,Internacional,2494159.72,0,Ms. Hannah Dixon,Sucursal 3 - Este,False
+89F92C6E,Austin-Marquez,ONG,Institucional,2012-10-21,0,Metropolitana,2504377.73,0,Lauren Haynes,Sucursal 8 - Oeste,True
+66472173,Eric Jones,Estudiante,Nuevo,2016-11-30,77,Oeste,1000131.63,0,Lisa Bishop,Sucursal 14 - Norte,True
+9D6FE998,"Simpson, Boyd and Chan",PYME,Plata,2016-07-13,0,Norte,1192155.63,592,Scott Warner,Sucursal 13 - Centro,True
+E270DBBF,Diana Gutierrez,Estudiante,Corporativo,2020-11-19,43,Centro,2083235.31,0,Jared Herman,Sucursal 12 - Sur,False
+596C0EAC,Joseph Huerta,Jubilado,Institucional,2010-10-02,77,Centro,4369311.94,0,Joseph Arnold,Sucursal 14 - Norte,False
+90586CE6,Cohen-Watts,Empresa,Institucional,2012-03-02,0,Metropolitana,4326809.18,0,Jared Herman,Sucursal 10 - Norte,False
+35C7D2F8,Williams PLC,Gobierno,Nuevo,2017-01-04,0,Metropolitana,4667674.08,0,Ms. Hannah Dixon,Sucursal 4 - Norte,False
+A1255038,"Lane, Cooper and Smith",PYME,Diamante,2010-03-23,0,Oeste,1422870.6,448,Robin Oneill,Sucursal 13 - Centro,True
+341E53B2,Mark Reynolds,Estudiante,Diamante,2013-05-14,26,Norte,974213.76,0,Amanda Nguyen,Sucursal 13 - Centro,False
+8347BDAB,Ricardo Brady,Estudiante,Nuevo,2022-12-27,55,Este,4814583.44,0,Lauren Haynes,Sucursal 15 - Sur,True
+E3EF607D,Sara Esparza,Jubilado,Oro,2012-04-01,72,Este,1719954.02,0,Deborah Fitzgerald,Sucursal 1 - Oeste,True
+CA855132,Karen Mcgrath,VIP,Oro,2019-12-30,46,Este,1653413.03,0,Lisa Bishop,Sucursal 14 - Norte,True
+FDDF8265,"Rogers, Gibson and Miller",Empresa,Diamante,2016-10-25,0,Este,4792758.49,0,Scott Warner,Sucursal 15 - Sur,True
+17E9798F,Odom PLC,ONG,Nuevo,2020-04-19,0,Este,206908.84,0,Anthony Andrews,Sucursal 9 - Centro,True
+614AAAEB,"Frank, Long and Martin",Gobierno,Nuevo,2014-06-20,0,Sur,3144294.48,0,Juan Hoover,Sucursal 14 - Norte,False
+AF44DEA2,George Flowers,Jubilado,Institucional,2018-09-03,31,Internacional,2100689.14,0,William Brown,Sucursal 17 - Norte,False
+2B8DA230,Anthony Soto,Individual,Oro,2010-07-08,40,Este,493604.12,665,Stephen George,Sucursal 4 - Norte,False
+8F19C57D,Sarah Munoz,VIP,Institucional,2011-01-21,42,Centro,1866428.12,0,Mr. Michael Sutton III,Sucursal 16 - Centro,True
+352C6028,Pugh Group,Empresa,Diamante,2018-09-11,0,Este,3671756.24,0,Peter Johnson,Sucursal 1 - Oeste,False
+AF377CC5,Walker-Spencer,Gobierno,Corporativo,2015-07-12,0,Norte,3620616.57,0,Amber Turner,Sucursal 20 - Este,False
+58FAED34,Stein-Olsen,Gobierno,Plata,2017-02-13,0,Este,4739490.16,0,Connor Ellis,Sucursal 3 - Este,False
+AAAEA65C,Jennifer Willis,VIP,Corporativo,2022-08-15,68,Internacional,2266951.63,0,Juan Hoover,Sucursal 3 - Este,True
+84F1CE0B,Perez Group,PYME,Diamante,2016-01-03,0,Centro,2281255.1,768,Amber Turner,Sucursal 15 - Sur,True
+634A6AA8,King-Bentley,Gobierno,Institucional,2011-03-12,0,Este,3798395.25,0,Ms. Hannah Dixon,Sucursal 13 - Centro,True
+4F9D0C22,Jamie Medina,Individual,Bronce,2016-01-23,28,Metropolitana,485285.97,595,Timothy Robertson,Sucursal 2 - Sur,True
+A532C445,Michaela Montoya,Estudiante,Bronce,2019-10-01,37,Centro,65863.86,0,Ernest Brown,Sucursal 7 - Norte,True
+36DAE3FC,Joseph Olson,VIP,Corporativo,2017-06-10,65,Sur,1568698.25,0,Courtney Davis,Sucursal 13 - Centro,False
+538326CB,"Allen, Cole and Howell",Gobierno,Oro,2020-05-15,0,Oeste,1731578.71,0,Justin Skinner,Sucursal 20 - Este,False
+AC671C6E,Andrade and Sons,ONG,Diamante,2015-10-08,0,Oeste,456458.54,0,Jacob Ochoa,Sucursal 16 - Centro,False
+A13E800E,Booker-Morris,ONG,Nuevo,2013-10-25,0,Sur,4221201.31,0,William Carpenter,Sucursal 17 - Norte,False
+2106C95D,"Gomez, Estes and Wallace",ONG,Diamante,2021-03-26,0,Sur,3605319.32,0,Kristin Elliott,Sucursal 18 - Oeste,True
+386CADA2,Vincent Logan,Estudiante,Corporativo,2019-06-14,53,Norte,4365599.25,0,Tiffany Chavez,Sucursal 20 - Este,False
+FCD14C0C,Lopez Inc,Empresa,Diamante,2023-02-04,0,Centro,2445693.11,0,Jason Jones,Sucursal 20 - Este,False
+B955F762,"Baker, Gross and Obrien",ONG,Oro,2021-03-29,0,Este,886481.25,0,Darlene Mueller,Sucursal 13 - Centro,False
+D6DB973C,Michael Johnson,Individual,Nuevo,2011-06-06,61,Este,396101.68,780,Kristin Elliott,Sucursal 5 - Oeste,False
+577B55B0,James Dawson,Individual,Bronce,2018-12-26,34,Oeste,313640.77,392,Denise Brown,Sucursal 13 - Centro,True
+80A1507F,Roman-Baker,PYME,Oro,2013-03-12,0,Internacional,3563295.69,781,Jason Jones,Sucursal 10 - Norte,False
+8079FF28,Dr. Rachel Smith MD,Jubilado,Plata,2021-01-28,30,Este,3193116.2,0,William Carpenter,Sucursal 10 - Norte,True
+E971964C,Lori Pacheco,VIP,Diamante,2015-01-16,21,Este,1446293.28,0,Scott Warner,Sucursal 13 - Centro,True
+54DB6CB3,Anderson-Murillo,PYME,Plata,2016-04-22,0,Internacional,1953836.39,516,Amber Turner,Sucursal 9 - Centro,True
+03A729C6,Rogers Ltd,ONG,Institucional,2011-09-29,0,Oeste,3547408.48,0,David Wilson,Sucursal 16 - Centro,False
+888779CD,Ferguson-Graham,Gobierno,Plata,2020-02-12,0,Este,1632994.8,0,Kristin Elliott,Sucursal 9 - Centro,True
+408C3EAC,Jack Martinez,Estudiante,Bronce,2019-07-13,52,Centro,735611.59,0,Tasha Ferguson,Sucursal 4 - Norte,False
+DA9B39EB,Tanya Smith,Estudiante,Nuevo,2014-04-13,36,Metropolitana,656297.61,0,Jason Jones,Sucursal 3 - Este,False
+033D6850,"Goodwin, Young and Williams",Empresa,Nuevo,2021-12-18,0,Norte,3126858.7,0,William Brown,Sucursal 5 - Oeste,False
+B72925D3,Rachel Montgomery,Jubilado,Plata,2019-04-10,40,Metropolitana,4987206.93,0,Jason Jones,Sucursal 18 - Oeste,False
+DB0F86CE,Martinez-Brown,PYME,Oro,2020-06-03,0,Este,1893079.33,395,Tasha Ferguson,Sucursal 11 - Centro,False
+1C6691B7,Richard Stevens,VIP,Oro,2019-01-23,25,Metropolitana,3277295.29,0,Christopher Peterson,Sucursal 12 - Sur,True
+F0CCA2F0,Carmen Sparks,Jubilado,Diamante,2020-01-14,34,Sur,571245.08,0,Gregory Nash,Sucursal 20 - Este,False
+017A9850,Mrs. Deborah Macias,Individual,Institucional,2020-08-30,68,Metropolitana,191468.81,413,Tasha Ferguson,Sucursal 6 - Oeste,True
+DCBBAEF4,Mr. David Obrien,Estudiante,Diamante,2011-09-28,39,Sur,2031429.17,0,Darlene Mueller,Sucursal 9 - Centro,False
+55A9EFAF,Casey Sullivan,VIP,Nuevo,2021-02-09,66,Este,3428758.94,0,Darlene Mueller,Sucursal 16 - Centro,True
+6D226667,Juarez-Spencer,Gobierno,Platino,2017-02-04,0,Centro,1754052.44,0,Peter Johnson,Sucursal 11 - Centro,False
+5C95BDB4,Martin Inc,Empresa,Corporativo,2013-08-11,0,Internacional,3359338.54,0,Ashley Nielsen,Sucursal 12 - Sur,False
+4769735D,Nicholas Mills,VIP,Diamante,2022-05-28,61,Sur,77465.4,0,Jason Jones,Sucursal 19 - Norte,False
+8ECD9C58,Murphy LLC,ONG,Oro,2023-04-01,0,Internacional,1435329.78,0,John Simpson,Sucursal 17 - Norte,True
+01C7E0FD,John Oliver,Jubilado,Corporativo,2017-11-15,68,Metropolitana,1588631.42,0,Ernest Brown,Sucursal 4 - Norte,False
+2B702255,Timothy Avila,Estudiante,Diamante,2020-03-11,54,Este,3081165.08,0,Gina Gill,Sucursal 7 - Norte,False
+9C92AB89,Martin Hall,VIP,Bronce,2021-01-05,66,Este,4273044.01,0,Kelly Floyd,Sucursal 19 - Norte,False
+2B05D082,Branch PLC,ONG,Nuevo,2022-09-19,0,Metropolitana,1187615.64,0,William Brown,Sucursal 18 - Oeste,True
+73BF212D,Watson-Pierce,ONG,Diamante,2020-10-11,0,Sur,2746377.1,0,John Simpson,Sucursal 10 - Norte,False
+8AC09059,Riley-Fry,PYME,Diamante,2013-05-17,0,Este,1703388.75,594,Amber Turner,Sucursal 2 - Sur,False
+D178A54F,James Stone,Estudiante,Institucional,2019-03-17,34,Sur,728281.46,0,Jeremy Lane,Sucursal 12 - Sur,True
+F1784F78,Christopher Robinson,Jubilado,Platino,2012-10-03,27,Sur,4069624.77,0,Darlene Mueller,Sucursal 9 - Centro,False
+1029CB34,"Long, Williams and Walker",PYME,Nuevo,2023-03-30,0,Este,63177.54,481,Gina Gill,Sucursal 18 - Oeste,True
+75EDD1F9,"Mitchell, Jimenez and Newman",PYME,Corporativo,2020-11-08,0,Este,1905905.8,331,Walter Price,Sucursal 9 - Centro,True
+95C4BAB6,"Gilmore, Mcmahon and Jones",PYME,Oro,2010-10-22,0,Norte,2667852.56,630,William Carpenter,Sucursal 8 - Oeste,True
+9326987E,John Williams,VIP,Platino,2019-04-12,35,Sur,1017749.96,0,Larry Moore,Sucursal 18 - Oeste,False
+F03A66D0,Richard Reynolds,Jubilado,Platino,2010-09-02,41,Sur,1939104.22,0,Natalie White,Sucursal 13 - Centro,False
+9D892BC8,Bennett-King,Empresa,Diamante,2015-07-04,0,Este,154747.52,0,Tasha Ferguson,Sucursal 13 - Centro,False
+FEE90D58,Moreno-Nelson,Gobierno,Institucional,2012-03-22,0,Norte,2912210.3,0,Stephen George,Sucursal 1 - Oeste,False
+9D6D675F,Bradley Farrell,VIP,Oro,2022-06-02,39,Metropolitana,4994461.9,0,Tiffany Chavez,Sucursal 3 - Este,False
+BC4E56A8,"Pruitt, Branch and Smith",Gobierno,Oro,2020-07-28,0,Este,2059541.34,0,Dennis Rojas,Sucursal 5 - Oeste,False
+45254BD4,Reyes Inc,PYME,Corporativo,2019-04-02,0,Norte,3946325.54,408,Amanda Nguyen,Sucursal 5 - Oeste,True
+E98CE3EE,Douglas Moreno,Individual,Oro,2020-02-21,37,Internacional,372945.36,809,Megan Thomas,Sucursal 18 - Oeste,False
+C8990CE2,Shelly Jones,Individual,Oro,2010-06-26,68,Sur,446798.83,752,Tiffany Chavez,Sucursal 12 - Sur,False
+8925FDB3,Marissa Garcia,Individual,Bronce,2010-03-31,77,Norte,342516.35,724,David Wilson,Sucursal 15 - Sur,False
+EDB264B0,Brian Wilson,Jubilado,Corporativo,2010-07-19,24,Internacional,1872840.56,0,Jacob Ochoa,Sucursal 12 - Sur,False
+89A2A131,Kevin Adkins,Individual,Diamante,2021-04-10,62,Metropolitana,380726.31,639,Megan Thomas,Sucursal 5 - Oeste,False
+E885907A,"White, Price and Gaines",Empresa,Oro,2015-04-24,0,Centro,2118486.01,0,Jacob Ochoa,Sucursal 4 - Norte,False
+7C2ACF08,"Thomas, Smith and Gates",Empresa,Platino,2022-10-07,0,Sur,793044.62,0,Ernest Brown,Sucursal 16 - Centro,False
+B1468356,Mrs. Samantha Malone,VIP,Institucional,2010-04-26,69,Este,838823.46,0,Anthony Andrews,Sucursal 11 - Centro,True
+75D8C023,Eric Bush,Estudiante,Oro,2013-10-06,48,Este,4391324.6,0,Amanda Nguyen,Sucursal 20 - Este,True
+9934B718,Kevin Huynh,Individual,Diamante,2010-02-14,49,Este,441432.48,517,Amanda Nguyen,Sucursal 17 - Norte,False
+A701E7DE,Smith Group,Gobierno,Oro,2012-09-27,0,Internacional,410263.49,0,Jason Jones,Sucursal 5 - Oeste,True
+DD7AAB05,Melissa Morris,VIP,Oro,2015-10-04,35,Oeste,4681458.68,0,Jason Jones,Sucursal 14 - Norte,False
+34846D0E,Natalie Elliott,Individual,Bronce,2018-06-11,62,Norte,166071.98,785,Darlene Mueller,Sucursal 3 - Este,False
+1F6D2066,Nicholson Group,ONG,Platino,2017-07-04,0,Este,1027113.32,0,William Carpenter,Sucursal 5 - Oeste,False
+6621FEB1,Monica Spencer,Estudiante,Institucional,2013-10-13,57,Oeste,3390778.39,0,Joseph Arnold,Sucursal 4 - Norte,False
+B5DFED68,"Murray, Johnson and Miller",Empresa,Corporativo,2021-12-27,0,Sur,3329219.3,0,Denise Brown,Sucursal 5 - Oeste,True
+201FC860,Harper-Campbell,Empresa,Corporativo,2016-07-26,0,Internacional,4954359.6,0,Jason Miller,Sucursal 1 - Oeste,True
+BA087F8D,Mcguire-Moreno,Empresa,Diamante,2015-04-01,0,Internacional,4582300.47,0,Amanda Nguyen,Sucursal 19 - Norte,False
+E00C7B66,Aaron Baker,Individual,Institucional,2016-06-25,71,Este,34185.89,374,Gregory Nash,Sucursal 18 - Oeste,False
+9EF4712E,Simpson PLC,Gobierno,Institucional,2019-05-30,0,Norte,3390911.39,0,Dennis Rojas,Sucursal 2 - Sur,False
+832DBA5B,Barbara Lara,VIP,Oro,2021-10-11,50,Este,3967350.24,0,Justin Skinner,Sucursal 12 - Sur,True
+84884E9E,Shari Gomez,Individual,Nuevo,2023-01-06,73,Norte,341301.04,487,Dennis Rojas,Sucursal 8 - Oeste,False
+7BCED525,Rodriguez Group,Empresa,Platino,2017-02-28,0,Metropolitana,4870376.19,0,Mr. Michael Sutton III,Sucursal 19 - Norte,False
+A377267E,Breanna Berg,VIP,Bronce,2021-10-09,55,Este,4012567.86,0,Lauren Haynes,Sucursal 20 - Este,True
+9A1F85DD,Dr. Robert Mack,Estudiante,Plata,2011-01-12,22,Sur,1954561.19,0,Larry Moore,Sucursal 14 - Norte,False
+C797624E,Jessica Rodriguez,Estudiante,Oro,2023-07-13,26,Sur,1700376.81,0,Ms. Hannah Dixon,Sucursal 13 - Centro,True
+8B7FC9B1,Scott Miller,Individual,Bronce,2018-08-30,25,Sur,277528.49,337,Megan Thomas,Sucursal 1 - Oeste,True
+77319638,Marshall Group,Gobierno,Nuevo,2013-08-02,0,Norte,811245.31,0,William Brown,Sucursal 5 - Oeste,True
+A5176A4E,Leah Taylor,Jubilado,Plata,2010-06-12,24,Norte,1679550.62,0,Jason Miller,Sucursal 5 - Oeste,False
+163808B6,Eric Ross,Jubilado,Nuevo,2021-11-29,66,Este,574247.99,0,Lauren Haynes,Sucursal 11 - Centro,False
+63514E7B,"Bowen, Dixon and Clark",Gobierno,Nuevo,2018-06-09,0,Internacional,886044.32,0,Jared Herman,Sucursal 19 - Norte,False
+D8E3DA1A,"Davis, Le and Johnson",ONG,Diamante,2012-05-23,0,Sur,1619273.05,0,Lisa Bishop,Sucursal 15 - Sur,False
+E297F78D,Little and Sons,Empresa,Diamante,2015-02-15,0,Metropolitana,3749753.8,0,William Brown,Sucursal 2 - Sur,True
+9B5DE37F,Megan Coleman,VIP,Corporativo,2010-01-04,60,Metropolitana,2924990.98,0,Gregory Nash,Sucursal 13 - Centro,True
+4BA819B1,Smith PLC,Gobierno,Corporativo,2020-02-08,0,Este,1991667.69,0,Theresa Zavala,Sucursal 1 - Oeste,True
+D3B0DBF3,"Moreno, Gomez and Barrett",ONG,Nuevo,2017-07-17,0,Norte,641904.03,0,Denise Brown,Sucursal 16 - Centro,False
+EB4174B5,Allen Inc,PYME,Corporativo,2017-05-04,0,Metropolitana,2474459.67,649,Tiffany Chavez,Sucursal 10 - Norte,False
+4CBB469A,Rodriguez Inc,PYME,Bronce,2021-11-22,0,Internacional,3069730.65,420,Lauren Haynes,Sucursal 19 - Norte,True
+7FC4D710,Lawrence Group,PYME,Institucional,2019-06-22,0,Internacional,1588500.64,595,Megan Thomas,Sucursal 1 - Oeste,True
+44DA79E2,Tracy Davis,VIP,Platino,2010-03-09,36,Sur,4854550.14,0,Robin Oneill,Sucursal 12 - Sur,False
+FB0BD70E,Lacey Lowe,VIP,Corporativo,2014-08-22,79,Oeste,4451191.86,0,Kelly Floyd,Sucursal 16 - Centro,False
+CF33561A,"Mcbride, Bell and Hudson",Empresa,Institucional,2010-05-12,0,Sur,1998961.89,0,Lauren Haynes,Sucursal 18 - Oeste,True
+051F61FF,Justin Gillespie,Individual,Oro,2023-04-24,28,Centro,193614.37,498,William Carpenter,Sucursal 13 - Centro,True
+B629F520,Walker and Sons,PYME,Bronce,2023-12-21,0,Este,1234824.49,583,Scott Hines,Sucursal 3 - Este,False
+2C58CA98,Miller-Boyd,PYME,Corporativo,2019-10-02,0,Metropolitana,675410.13,806,Jared Herman,Sucursal 1 - Oeste,True
+330B10DF,Horn Group,Empresa,Nuevo,2015-03-22,0,Internacional,4430915.3,0,Peter Johnson,Sucursal 18 - Oeste,True
+EB8D2A84,Mr. Timothy Blake,Jubilado,Diamante,2022-11-20,30,Metropolitana,1117771.06,0,David Wilson,Sucursal 13 - Centro,True
+096CF05E,"Christian, Dickerson and Wells",Gobierno,Institucional,2011-01-30,0,Internacional,4380517.42,0,Peter Johnson,Sucursal 14 - Norte,True
+FCDB0CB6,Johnson PLC,PYME,Institucional,2016-06-10,0,Sur,1369251.18,842,Theresa Zavala,Sucursal 14 - Norte,False
+B18E0240,Rebecca Ponce,Estudiante,Oro,2017-01-15,36,Internacional,4052487.65,0,Dennis Rojas,Sucursal 4 - Norte,False
+DEBFBE58,Kelly Christian,VIP,Corporativo,2012-04-18,37,Sur,4254621.07,0,Patricia Anderson,Sucursal 20 - Este,True
+31A65082,Jennifer Jenkins,Estudiante,Diamante,2015-05-04,46,Metropolitana,823592.11,0,John Simpson,Sucursal 7 - Norte,True
+160CAF95,Luis Edwards,Individual,Diamante,2014-08-28,51,Sur,414471.7,782,Mr. Michael Sutton III,Sucursal 10 - Norte,True
+AB414E16,Haynes Inc,ONG,Platino,2014-09-03,0,Oeste,3782785.8,0,David Wilson,Sucursal 16 - Centro,False
+698DB187,"Porter, Carlson and Hoffman",Empresa,Bronce,2016-06-07,0,Oeste,4405279.75,0,Lauren Haynes,Sucursal 13 - Centro,False
+CE96AE5F,"Mccann, Mcclure and Morales",Gobierno,Bronce,2014-02-05,0,Sur,4033184.85,0,Sherry Ball,Sucursal 12 - Sur,False
+0B755BA5,"Hampton, Curtis and Hunter",PYME,Plata,2012-12-20,0,Metropolitana,3690021.13,749,Christopher Peterson,Sucursal 5 - Oeste,False
+79BE0087,"Smith, Dunlap and Kelley",ONG,Diamante,2020-09-03,0,Sur,4200890.8,0,Anthony Andrews,Sucursal 5 - Oeste,True
+05D9B52F,Anna Adams,Estudiante,Corporativo,2014-07-14,42,Este,241862.22,0,Timothy Robertson,Sucursal 6 - Oeste,False
+0895E9D4,Moore-Morrison,PYME,Diamante,2017-10-26,0,Oeste,120844.62,555,Larry Moore,Sucursal 19 - Norte,True
+8E5EDCE0,"Delacruz, Romero and Brown",Empresa,Nuevo,2019-12-30,0,Sur,3664484.92,0,Kelly Floyd,Sucursal 3 - Este,True
+5A50804F,Gregory Cook,Individual,Nuevo,2018-07-07,36,Internacional,413162.08,495,Dennis Rojas,Sucursal 17 - Norte,True
+62BD699D,Lori Kim,Estudiante,Institucional,2023-11-08,54,Metropolitana,4777141.89,0,Ms. Hannah Dixon,Sucursal 11 - Centro,True
+4EABA2C6,"Lopez, Guzman and Park",ONG,Platino,2011-01-04,0,Este,3437221.8,0,Christopher Peterson,Sucursal 4 - Norte,False
+58865237,Christopher Anderson,Estudiante,Corporativo,2020-03-24,26,Internacional,2449265.86,0,Robin Oneill,Sucursal 20 - Este,False
+FF5408E9,Fisher-Flores,PYME,Diamante,2019-06-06,0,Oeste,2389998.24,483,Darlene Mueller,Sucursal 11 - Centro,True
+EEEC2261,"Martinez, Miller and Houston",Empresa,Corporativo,2012-06-24,0,Norte,4590817.28,0,Amber Turner,Sucursal 6 - Oeste,True
+2A806F87,"Garza, Long and Vaughn",ONG,Platino,2015-10-05,0,Metropolitana,459853.32,0,Jared Herman,Sucursal 14 - Norte,False
+11D638E7,"Hughes, Church and Peterson",Gobierno,Plata,2020-05-07,0,Centro,379597.99,0,Denise Brown,Sucursal 19 - Norte,True
+8084B81E,Lisa Daniels,Jubilado,Plata,2013-02-21,74,Centro,1006246.79,0,Brenda Richards,Sucursal 4 - Norte,True
+8D31DF6A,Nicholas Ramirez,VIP,Bronce,2013-07-03,54,Internacional,2390433.45,0,Mr. Michael Sutton III,Sucursal 19 - Norte,False
+30EC6591,White-Price,Gobierno,Bronce,2023-09-30,0,Sur,281459.96,0,Mr. Michael Sutton III,Sucursal 5 - Oeste,False
+2FD0FE95,Strickland-Elliott,Gobierno,Nuevo,2018-10-30,0,Sur,4260438.29,0,Ernest Brown,Sucursal 18 - Oeste,True
+AE938ED8,Fox-Gardner,Empresa,Corporativo,2018-03-09,0,Norte,4154809.09,0,Scott Hines,Sucursal 6 - Oeste,True
+CA93870D,Simmons-Miller,ONG,Oro,2011-05-13,0,Metropolitana,3797493.07,0,Theresa Zavala,Sucursal 11 - Centro,True
+0C725B18,Hall Inc,Empresa,Diamante,2021-08-06,0,Sur,3300466.14,0,Larry Moore,Sucursal 19 - Norte,False
+1F94E241,Randy Ward,Jubilado,Nuevo,2014-07-15,48,Internacional,786918.71,0,Justin Skinner,Sucursal 2 - Sur,True
+CCCE73DA,Jacob Boyer,VIP,Bronce,2017-03-12,45,Sur,3490944.14,0,Connor Ellis,Sucursal 14 - Norte,True
+BBE280D2,Mario Ho,VIP,Oro,2018-04-18,47,Sur,1946329.62,0,Joseph Arnold,Sucursal 13 - Centro,False
+B77786DC,Dr. Kyle Finley Jr.,Jubilado,Nuevo,2014-05-05,46,Internacional,1116501.99,0,Peter Johnson,Sucursal 8 - Oeste,True
+24104B84,Michael Briggs,Estudiante,Institucional,2021-03-07,74,Metropolitana,4329161.68,0,Gina Gill,Sucursal 4 - Norte,False
+5B9F4789,Fuentes-Grant,Gobierno,Nuevo,2022-05-17,0,Sur,1675964.22,0,Scott Hines,Sucursal 6 - Oeste,False
+E5C11E7E,Lisa Brooks,Jubilado,Plata,2022-08-15,52,Norte,1311122.4,0,Darlene Mueller,Sucursal 11 - Centro,True
+8BD3D8ED,Romero and Sons,Empresa,Nuevo,2012-01-18,0,Sur,86913.73,0,Timothy Robertson,Sucursal 7 - Norte,False
+B91861C1,John Garcia PhD,Jubilado,Nuevo,2020-12-15,36,Internacional,3250913.04,0,Kelly Floyd,Sucursal 16 - Centro,True
+AC78EEA9,Perez-Martinez,Empresa,Plata,2013-06-24,0,Sur,4265421.79,0,Larry Moore,Sucursal 10 - Norte,True
+C4EE8F7B,Clark-Elliott,Empresa,Plata,2010-09-23,0,Sur,4101707.43,0,Larry Moore,Sucursal 1 - Oeste,True
+4BC3CDD7,Roger Robinson,VIP,Institucional,2018-05-10,51,Internacional,1820816.27,0,Amber Turner,Sucursal 1 - Oeste,True
+25B9A79C,Michael Golden,Jubilado,Corporativo,2018-10-14,72,Centro,1164765.78,0,Luis Francis,Sucursal 14 - Norte,True
+ED7CECDE,Dean Group,Gobierno,Diamante,2015-10-28,0,Centro,1424006.89,0,David Wilson,Sucursal 5 - Oeste,True
+FEE30B35,George-Jones,Empresa,Platino,2010-03-22,0,Oeste,4773883.32,0,Jason Miller,Sucursal 17 - Norte,False
+127519F3,Miller Group,Gobierno,Bronce,2023-05-23,0,Metropolitana,4852434.81,0,Courtney Davis,Sucursal 6 - Oeste,True
+0FB313C1,Brandon Flores,Jubilado,Diamante,2018-11-21,28,Este,3323836.56,0,Brenda Richards,Sucursal 13 - Centro,False
+A94B1A02,Clark PLC,Gobierno,Platino,2022-04-12,0,Centro,1293606.31,0,Larry Moore,Sucursal 17 - Norte,True
+E9D0B1AF,"Estrada, Barker and Garcia",ONG,Platino,2023-04-26,0,Norte,1177117.95,0,John Simpson,Sucursal 8 - Oeste,False
+9622A13F,Lawrence Palmer,Jubilado,Diamante,2013-02-18,25,Internacional,1515240.87,0,Michael Alvarez Jr.,Sucursal 20 - Este,True
+2B6E1BCE,Darlene Weber,Individual,Nuevo,2017-11-07,57,Centro,216727.51,814,Gregory Nash,Sucursal 4 - Norte,True
+2842301F,"Haynes, Lawson and Sullivan",PYME,Institucional,2016-09-30,0,Centro,4459630.01,653,Brenda Richards,Sucursal 2 - Sur,True
+53CF2466,Omar Miller,Jubilado,Institucional,2012-03-15,79,Internacional,3761043.32,0,Ms. Hannah Dixon,Sucursal 12 - Sur,False
+51732820,Stacy Barker,Estudiante,Diamante,2021-04-11,20,Sur,1295741.54,0,John Simpson,Sucursal 12 - Sur,True
+CD402BFF,Crawford-Henry,Empresa,Nuevo,2014-04-25,0,Norte,4232895.52,0,Darlene Mueller,Sucursal 12 - Sur,True
+1EEBD625,Kelly Stein,Individual,Plata,2023-09-23,54,Oeste,309402.66,773,Tiffany Chavez,Sucursal 5 - Oeste,False
+4533991F,Rodriguez-Jones,Empresa,Plata,2011-02-19,0,Sur,4232835.48,0,Jacob Ochoa,Sucursal 7 - Norte,True
+590B5C91,Anderson and Sons,ONG,Nuevo,2018-04-08,0,Este,3167785.85,0,Ernest Brown,Sucursal 9 - Centro,False
+47B46D26,"Fitzpatrick, Schwartz and Rush",ONG,Platino,2012-06-17,0,Metropolitana,1786937.32,0,William Brown,Sucursal 8 - Oeste,True
+D53AD310,"Watkins, Mason and Martinez",PYME,Institucional,2010-04-14,0,Internacional,2081855.69,841,Jeremy Lane,Sucursal 5 - Oeste,True
+EADA71E5,Elizabeth Reyes,Jubilado,Corporativo,2015-03-06,52,Oeste,1169657.62,0,Darlene Mueller,Sucursal 2 - Sur,True
+91E20271,Kristen Gardner,Estudiante,Plata,2018-04-16,80,Metropolitana,3814293.6,0,Peter Johnson,Sucursal 3 - Este,True
+EB1E018F,Wood-Bush,Empresa,Corporativo,2010-06-14,0,Internacional,1664203.95,0,Denise Brown,Sucursal 14 - Norte,False
+98D6FA1C,Arnold-Fox,Gobierno,Nuevo,2010-08-18,0,Sur,539307.87,0,Scott Hines,Sucursal 6 - Oeste,False
+1484AF58,"Jacobson, Thomas and Flynn",PYME,Corporativo,2016-03-04,0,Sur,4935676.84,500,Dennis Rojas,Sucursal 13 - Centro,False
+F480E3C2,"Jenkins, Archer and Casey",Empresa,Nuevo,2016-08-01,0,Norte,4861883.05,0,Amanda Nguyen,Sucursal 15 - Sur,True
+71761C38,Bates-Hamilton,PYME,Diamante,2016-09-29,0,Sur,1479470.73,840,Larry Moore,Sucursal 11 - Centro,False
+A41E2169,"Smith, Melton and Pineda",Gobierno,Corporativo,2023-02-19,0,Norte,1599970.24,0,Scott Warner,Sucursal 18 - Oeste,False
+BE569296,Ingram PLC,Empresa,Bronce,2015-11-16,0,Norte,4153249.96,0,Jeremy Lane,Sucursal 1 - Oeste,True
+3ECE8E8F,Benjamin Ramirez,VIP,Platino,2023-12-20,31,Sur,4832773.92,0,Luis Francis,Sucursal 12 - Sur,True
+BC37983C,Richard Morgan,Estudiante,Plata,2015-12-13,60,Oeste,952757.93,0,Tiffany Chavez,Sucursal 5 - Oeste,False
+939E20D5,Mario Taylor,Estudiante,Institucional,2011-09-18,51,Oeste,2687230.9,0,Natalie White,Sucursal 16 - Centro,True
+7C4BD3D9,Michelle Johnson,Jubilado,Nuevo,2023-10-07,56,Metropolitana,940576.73,0,Kelly Floyd,Sucursal 3 - Este,False
+525888E4,Carl Miller,Individual,Corporativo,2016-07-24,22,Este,486185.86,565,Scott Hines,Sucursal 6 - Oeste,True
+73C8AE7A,Campos-Ramirez,ONG,Platino,2021-01-14,0,Centro,4247403.35,0,Ms. Hannah Dixon,Sucursal 14 - Norte,True
+B75E806E,"Gordon, Johnson and Adams",Gobierno,Institucional,2013-11-13,0,Internacional,4128516.07,0,Christopher Peterson,Sucursal 3 - Este,True
+9E5533A8,Webster Group,Empresa,Diamante,2013-07-27,0,Centro,4897318.34,0,Lauren Haynes,Sucursal 13 - Centro,False
+BC9CC168,Kelly Hanna,Estudiante,Nuevo,2010-08-01,24,Oeste,926373.76,0,Gina Gill,Sucursal 12 - Sur,True
+2820BB88,Elliott-Thompson,Gobierno,Nuevo,2018-03-30,0,Internacional,2622360.89,0,Connor Ellis,Sucursal 5 - Oeste,False
+3126CC7C,Lang Group,PYME,Plata,2018-12-05,0,Este,1353023.39,388,Theresa Zavala,Sucursal 19 - Norte,False
+293328F1,Brian Davis,Individual,Platino,2015-08-04,67,Metropolitana,366098.1,361,Sherry Ball,Sucursal 15 - Sur,False
+8D8EF98E,"Turner, Smith and Ward",PYME,Nuevo,2015-01-24,0,Oeste,3732272.12,522,Lisa Bishop,Sucursal 13 - Centro,True
+C8FCC7D9,Nichols-Blackwell,Gobierno,Bronce,2017-02-02,0,Centro,475898.4,0,Timothy Robertson,Sucursal 16 - Centro,False
+AA0CD6C5,Tyler-Craig,ONG,Corporativo,2013-02-23,0,Internacional,3230890.81,0,Patricia Anderson,Sucursal 4 - Norte,False
+579B1619,Lisa Sampson,VIP,Diamante,2013-05-12,55,Oeste,2519358.92,0,Stephen George,Sucursal 19 - Norte,False
+56203A03,Adams-Black,Gobierno,Platino,2017-06-30,0,Sur,2174145.37,0,Brenda Richards,Sucursal 13 - Centro,True
+EB114907,Perkins-Lopez,Empresa,Nuevo,2021-02-04,0,Internacional,3622286.93,0,Amanda Nguyen,Sucursal 4 - Norte,True
+73A079C3,Mark Miller,Jubilado,Oro,2016-07-30,55,Metropolitana,3944828.67,0,Denise Brown,Sucursal 10 - Norte,False
+C38B6320,Eduardo Brown,VIP,Plata,2012-07-04,76,Este,320106.94,0,Larry Moore,Sucursal 13 - Centro,True
+554415D8,Heather Underwood,Jubilado,Bronce,2017-11-25,32,Internacional,2702775.54,0,Darlene Mueller,Sucursal 7 - Norte,False
+4F55DBEE,Beth Ryan,VIP,Corporativo,2017-11-16,71,Centro,4147394.85,0,Ms. Hannah Dixon,Sucursal 13 - Centro,False
+B76964B7,Hicks-Lloyd,Gobierno,Institucional,2015-05-25,0,Norte,3533886.78,0,Walter Price,Sucursal 13 - Centro,False
+2CDCB095,Clinton Ward,Estudiante,Nuevo,2013-12-11,52,Metropolitana,2327569.17,0,Courtney Davis,Sucursal 16 - Centro,False
+C32A5E21,Lucas Inc,Empresa,Bronce,2021-09-23,0,Norte,1079247.03,0,Tiffany Chavez,Sucursal 1 - Oeste,False
+6004E7A6,Parker Collins,VIP,Diamante,2022-05-05,29,Internacional,2903526.05,0,Joseph Arnold,Sucursal 4 - Norte,True
+9D7A27E2,Amanda Harris,Jubilado,Plata,2015-07-20,64,Norte,3564332.76,0,Denise Brown,Sucursal 12 - Sur,True
+DC100CF8,Angela Adams,Jubilado,Bronce,2018-08-09,38,Oeste,1554429.02,0,Joseph Arnold,Sucursal 15 - Sur,True
+F8228989,Tiffany Martinez,Estudiante,Institucional,2010-11-08,38,Norte,550956.02,0,Gregory Nash,Sucursal 15 - Sur,True
+8ECBECAD,Mark Rodriguez,Individual,Platino,2021-10-23,70,Norte,178186.53,603,Theresa Zavala,Sucursal 4 - Norte,True
+E0C5A481,Lauren Rose,Estudiante,Institucional,2013-06-10,66,Centro,4449417.91,0,Megan Thomas,Sucursal 15 - Sur,True
+073042D7,April Gomez,Estudiante,Diamante,2014-11-17,38,Centro,2378294.08,0,Natalie White,Sucursal 16 - Centro,True
+2F226C55,Jessica Pennington,Jubilado,Corporativo,2013-01-23,33,Oeste,4196279.34,0,Anthony Andrews,Sucursal 6 - Oeste,True
+6D47C3FB,"Smith, Boyd and Sanchez",Gobierno,Institucional,2019-11-30,0,Norte,3251235.33,0,Sherry Ball,Sucursal 3 - Este,False
+C01B2673,Jacqueline Washington,Individual,Corporativo,2021-05-07,30,Centro,275774.49,572,Justin Skinner,Sucursal 17 - Norte,True
+AFA50AEF,Melissa Norton,Jubilado,Diamante,2012-02-22,74,Centro,379813.75,0,Robin Oneill,Sucursal 10 - Norte,True
+696DBC3D,Kent-Copeland,Gobierno,Bronce,2023-09-15,0,Oeste,4699567.06,0,Darlene Mueller,Sucursal 8 - Oeste,False
+1890A8FA,Simmons-Roy,Gobierno,Plata,2014-04-14,0,Sur,3808701.1,0,Scott Warner,Sucursal 19 - Norte,True
+FDE3C471,Cheryl Larson,Individual,Institucional,2023-05-03,79,Internacional,442296.19,384,Denise Brown,Sucursal 18 - Oeste,True
+E7557088,Paul PLC,Empresa,Plata,2011-09-13,0,Oeste,2584368.08,0,Juan Hoover,Sucursal 3 - Este,True
+136C341D,Deborah Bolton,VIP,Nuevo,2019-12-29,19,Internacional,940692.68,0,William Carpenter,Sucursal 19 - Norte,True
+07A6DF95,Dustin Hardin,Jubilado,Nuevo,2010-10-12,38,Sur,2232082.6,0,Lisa Bishop,Sucursal 5 - Oeste,False
+13F11386,Strickland LLC,Empresa,Nuevo,2021-07-11,0,Norte,2057356.27,0,Dennis Rojas,Sucursal 1 - Oeste,False
+FF762D86,Sara Hall,VIP,Diamante,2020-06-06,25,Este,989150.43,0,Patricia Anderson,Sucursal 14 - Norte,True
+C8FF4F55,Daniel Conway,Estudiante,Oro,2014-04-15,19,Oeste,3845907.55,0,William Carpenter,Sucursal 17 - Norte,True
+146D5F6A,"Simmons, Scott and Bauer",Empresa,Nuevo,2015-08-21,0,Norte,681208.82,0,Lauren Haynes,Sucursal 8 - Oeste,False
+89E0D5D2,Michael James,Jubilado,Plata,2022-11-06,47,Centro,3213026.86,0,William Carpenter,Sucursal 1 - Oeste,False
+5729A956,Derrick Robbins,VIP,Nuevo,2021-06-17,62,Centro,1874729.53,0,Justin Skinner,Sucursal 5 - Oeste,True
+E606A2FA,"Hernandez, Mosley and Hendricks",PYME,Nuevo,2022-03-23,0,Internacional,1159505.6,517,Brenda Richards,Sucursal 20 - Este,True
+0D5B9474,Trevino Inc,PYME,Institucional,2020-01-09,0,Centro,888586.85,573,Jacob Ochoa,Sucursal 12 - Sur,False
+81317A50,Austin Smith,Individual,Institucional,2017-08-13,80,Oeste,177962.53,651,Walter Price,Sucursal 6 - Oeste,False
+49DFEC95,Anderson-Drake,PYME,Corporativo,2012-11-22,0,Centro,4591206.18,420,Theresa Zavala,Sucursal 4 - Norte,False
+AF4E158E,Lisa Perry,Estudiante,Bronce,2019-04-22,68,Norte,1277781.03,0,Megan Thomas,Sucursal 9 - Centro,False
+E938DAA3,Christy Andrews,Jubilado,Plata,2019-08-27,22,Oeste,1406939.38,0,Megan Thomas,Sucursal 5 - Oeste,False
+54722CE4,Leslie Sandoval,Jubilado,Bronce,2014-05-23,23,Este,1320163.42,0,Jason Miller,Sucursal 13 - Centro,False
+A2BEDF1B,Hale and Sons,Empresa,Platino,2019-10-09,0,Centro,3499523.11,0,Jared Herman,Sucursal 4 - Norte,False
+246A37CA,Johnson-Ball,ONG,Plata,2023-09-24,0,Sur,3586581.31,0,Darlene Mueller,Sucursal 1 - Oeste,True
+1C4B9453,Geoffrey Moran,Estudiante,Plata,2016-08-30,33,Internacional,2170571.09,0,Scott Hines,Sucursal 20 - Este,False
+9E310550,Coleman Ltd,PYME,Plata,2017-06-13,0,Centro,4807003.59,701,Jared Herman,Sucursal 12 - Sur,True
+B2BC3AEF,Hunt-Kerr,ONG,Nuevo,2023-09-21,0,Oeste,3813677.79,0,John Simpson,Sucursal 3 - Este,False
+F220BA89,Theresa Thompson,Estudiante,Bronce,2016-10-20,58,Oeste,1487272.54,0,Scott Hines,Sucursal 3 - Este,False
+82B9719A,Christina Clark,VIP,Oro,2013-02-14,59,Oeste,3161611.18,0,Ms. Hannah Dixon,Sucursal 3 - Este,False
+5AEFB815,Thomas-Harrington,ONG,Institucional,2010-09-24,0,Metropolitana,262152.31,0,Jeremy Lane,Sucursal 7 - Norte,False
+100891BA,Dylan Scott,Estudiante,Diamante,2011-07-17,20,Oeste,689931.35,0,Christopher Peterson,Sucursal 10 - Norte,False
+EF7A1D29,Morgan-Ward,PYME,Institucional,2018-05-08,0,Oeste,4851613.55,681,Tasha Ferguson,Sucursal 19 - Norte,False
+5B1C181D,Katherine Harris,Individual,Nuevo,2021-06-30,77,Centro,67801.79,377,Luis Francis,Sucursal 15 - Sur,False
+03C70A2E,Nicole Olson,Individual,Bronce,2013-05-06,79,Internacional,157548.03,790,Brenda Richards,Sucursal 15 - Sur,True
+E96524D4,Jessica Turner,Estudiante,Institucional,2012-05-31,48,Centro,3553473.08,0,Justin Skinner,Sucursal 12 - Sur,False
+01EFA00D,David Turner,VIP,Bronce,2016-10-06,53,Oeste,4892812.37,0,Jason Jones,Sucursal 2 - Sur,True
+11DDE869,"Holland, Taylor and Clark",PYME,Platino,2022-06-26,0,Norte,1343759.32,607,Dennis Rojas,Sucursal 16 - Centro,False
+A8153D66,Poole-Christian,Empresa,Institucional,2019-08-02,0,Metropolitana,4269184.39,0,Ms. Hannah Dixon,Sucursal 7 - Norte,True
+F700BC20,Robinson Group,PYME,Corporativo,2020-03-19,0,Internacional,1645755.25,728,Justin Skinner,Sucursal 17 - Norte,True
+66631C0F,Smith-Wheeler,ONG,Bronce,2019-08-30,0,Metropolitana,2735801.88,0,Luis Francis,Sucursal 8 - Oeste,False
+0AD66AC4,"Mccormick, Sullivan and Ross",Gobierno,Nuevo,2023-01-22,0,Norte,4749454.58,0,Natalie White,Sucursal 5 - Oeste,False
+274E4C54,Mendez Group,PYME,Bronce,2013-11-08,0,Sur,3000639.22,691,Ashley Nielsen,Sucursal 19 - Norte,False
+A76B5D78,Swanson Group,Gobierno,Diamante,2021-05-30,0,Este,2293974.09,0,Juan Hoover,Sucursal 14 - Norte,True
+B87B1B76,Mark Rowland,Individual,Platino,2012-05-18,50,Norte,56165.9,633,Connor Ellis,Sucursal 9 - Centro,False
+28F46243,Sara Mason,VIP,Corporativo,2014-03-28,77,Oeste,4234186.06,0,Peter Johnson,Sucursal 15 - Sur,False
+1EFBFF78,Hernandez LLC,Gobierno,Oro,2012-02-26,0,Norte,1132464.47,0,Christopher Peterson,Sucursal 18 - Oeste,False
+795B257E,Jason Young,Jubilado,Institucional,2023-02-28,25,Este,1346308.71,0,William Brown,Sucursal 11 - Centro,False
+F9F9F3D4,Amy Richards,Estudiante,Plata,2014-12-13,30,Internacional,1378309.54,0,Scott Hines,Sucursal 5 - Oeste,False
+AF3F91ED,Corey Mcclure,Individual,Platino,2015-07-07,41,Sur,241116.27,645,Gregory Nash,Sucursal 19 - Norte,False
+647832AA,Hoffman-Berger,PYME,Plata,2014-10-10,0,Internacional,4804207.14,830,Christopher Peterson,Sucursal 12 - Sur,False
+E7BE759F,Harry Lee,VIP,Nuevo,2013-06-02,64,Norte,1676899.34,0,Courtney Davis,Sucursal 18 - Oeste,True
+EA7A6082,Ashley Jackson,VIP,Plata,2012-12-25,30,Centro,1152284.52,0,Denise Brown,Sucursal 14 - Norte,True
+AEF3DD6B,Amanda Meyers,Estudiante,Plata,2015-08-21,75,Centro,3943902.49,0,Denise Brown,Sucursal 12 - Sur,True
+6337217E,Gregory Edwards,Estudiante,Nuevo,2015-04-18,28,Este,1711435.39,0,Denise Brown,Sucursal 1 - Oeste,False
+71A54A45,Cannon and Sons,PYME,Corporativo,2016-06-30,0,Metropolitana,3817172.17,569,Ernest Brown,Sucursal 9 - Centro,False
+5DF80071,Jessica Johnson MD,Estudiante,Nuevo,2018-01-03,72,Norte,153493.22,0,Amanda Nguyen,Sucursal 5 - Oeste,True
+C36B98AE,Kimberly Warren,VIP,Plata,2021-05-19,65,Metropolitana,772223.31,0,Robin Oneill,Sucursal 13 - Centro,True
+255C0D84,Thompson PLC,Gobierno,Diamante,2017-09-13,0,Metropolitana,2171715.69,0,Walter Price,Sucursal 8 - Oeste,True
+34EFAA79,"Richardson, Holmes and Rodriguez",PYME,Institucional,2016-06-03,0,Sur,1893220.4,594,Gregory Nash,Sucursal 17 - Norte,False
+C03D5668,Maynard-Klein,ONG,Diamante,2010-09-22,0,Oeste,2189418.37,0,Gregory Nash,Sucursal 2 - Sur,True
+140C34A6,Jerome Ramos,Jubilado,Bronce,2013-01-14,54,Este,4609533.42,0,Jared Herman,Sucursal 17 - Norte,False
+6A4AADCA,Elizabeth Aguilar,Individual,Oro,2018-09-28,40,Este,101590.88,798,Jason Jones,Sucursal 13 - Centro,True
+E2D8FF48,Tammy Smith,Jubilado,Nuevo,2023-10-30,29,Metropolitana,1834385.01,0,Patricia Anderson,Sucursal 9 - Centro,True
+E2688347,Emily Davis,VIP,Nuevo,2020-01-10,41,Oeste,1142866.04,0,Ashley Nielsen,Sucursal 13 - Centro,True
+9E66192D,Pham and Sons,Empresa,Bronce,2010-04-24,0,Internacional,156591.08,0,Lisa Bishop,Sucursal 8 - Oeste,False
+5170B59C,Heather Jones,Jubilado,Oro,2019-06-03,72,Norte,761839.01,0,Amanda Nguyen,Sucursal 14 - Norte,False
+5A0A1D04,Christopher Ortiz,Individual,Corporativo,2017-01-01,47,Norte,189732.68,459,Dennis Rojas,Sucursal 13 - Centro,False
+3D4E123E,Amy Smith,VIP,Institucional,2020-09-28,59,Sur,4600181.14,0,Lisa Bishop,Sucursal 10 - Norte,False
+8523AE56,George Johnson,VIP,Bronce,2014-09-08,28,Este,2208326.06,0,Lisa Bishop,Sucursal 14 - Norte,False
+6CFF9C99,Cox and Sons,PYME,Institucional,2022-04-13,0,Sur,4636706.37,652,Lauren Haynes,Sucursal 6 - Oeste,False
+6EE72CC2,Ashley Wilson,VIP,Bronce,2021-06-29,22,Norte,1211515.93,0,Megan Thomas,Sucursal 16 - Centro,True
+A1088A00,Mckenzie-Green,Gobierno,Nuevo,2018-06-17,0,Sur,908695.54,0,Larry Moore,Sucursal 10 - Norte,False
+6FA6AEC4,Anna Lowe,Individual,Platino,2021-11-26,74,Internacional,214742.91,494,John Simpson,Sucursal 7 - Norte,True
+86E4790D,Dana Mack,Estudiante,Plata,2022-02-26,71,Internacional,1920647.34,0,William Carpenter,Sucursal 20 - Este,False
+30BEEAD6,Michael Banks,Jubilado,Platino,2017-03-30,20,Este,2193507.72,0,Jeremy Lane,Sucursal 5 - Oeste,False
+6A870131,"Davis, Ford and Wolfe",Empresa,Nuevo,2012-04-24,0,Centro,4043616.14,0,Ashley Nielsen,Sucursal 14 - Norte,False
+7F867D41,"Rice, Goodman and Bauer",Empresa,Platino,2017-12-16,0,Internacional,2969261.48,0,Kristin Elliott,Sucursal 11 - Centro,True
+4498083D,Perez-Hall,ONG,Platino,2016-12-24,0,Sur,3003706.85,0,Stephen George,Sucursal 3 - Este,True
+BA2D047F,Davis-Garcia,Empresa,Nuevo,2020-06-06,0,Metropolitana,3748502.05,0,Jason Miller,Sucursal 20 - Este,False
+06CCE9C2,Soto PLC,PYME,Nuevo,2010-03-27,0,Este,4831350.92,532,Justin Skinner,Sucursal 3 - Este,True
+02C016EC,Christopher Gonzalez,Individual,Institucional,2022-06-18,38,Internacional,18463.83,829,Anthony Andrews,Sucursal 2 - Sur,True
+D4F7C3DA,Tina Lewis,Individual,Oro,2010-11-25,64,Sur,487141.75,704,Megan Thomas,Sucursal 17 - Norte,False
+0463CC14,Morgan-Roberts,Empresa,Institucional,2019-04-09,0,Norte,109535.58,0,Jeremy Lane,Sucursal 10 - Norte,True
+26E0C784,"Allen, Taylor and Dalton",Gobierno,Diamante,2021-08-13,0,Oeste,3628313.61,0,Jason Jones,Sucursal 8 - Oeste,True
+0CAAFCBA,Willis LLC,Gobierno,Plata,2022-05-11,0,Centro,3762184.24,0,Joseph Arnold,Sucursal 9 - Centro,True
+721704A5,Sarah Evans,Individual,Plata,2013-08-24,31,Norte,319079.33,306,Jared Herman,Sucursal 18 - Oeste,True
+7C0B0126,Kevin Hull,Jubilado,Corporativo,2018-12-29,45,Norte,2815322.67,0,Tasha Ferguson,Sucursal 7 - Norte,True
+F8287BA3,Emily Ingram,Estudiante,Bronce,2010-08-02,18,Centro,1052411.73,0,Connor Ellis,Sucursal 2 - Sur,False
+D9ABCA83,Latoya Walker,VIP,Diamante,2022-04-23,64,Oeste,4917567.73,0,Tasha Ferguson,Sucursal 14 - Norte,True
+C36CFF99,Friedman LLC,Gobierno,Diamante,2020-03-06,0,Internacional,964290.67,0,Juan Hoover,Sucursal 2 - Sur,False
+A0E6A309,Jermaine Williams,VIP,Plata,2019-10-31,25,Sur,3873967.21,0,Tasha Ferguson,Sucursal 3 - Este,True
+3E8132A6,Jones PLC,ONG,Diamante,2011-07-25,0,Sur,1781555.11,0,Larry Moore,Sucursal 4 - Norte,True
+93B07BE6,Timothy Cole,Jubilado,Bronce,2016-10-22,67,Centro,1789401.9,0,Justin Skinner,Sucursal 3 - Este,True
+30AFE0BB,Davis Group,Gobierno,Corporativo,2018-03-09,0,Norte,582362.11,0,Gina Gill,Sucursal 8 - Oeste,True
+44BA57EC,David Palmer,VIP,Nuevo,2011-07-21,60,Internacional,1348255.12,0,Tasha Ferguson,Sucursal 8 - Oeste,False
+A6CBD9C2,"Rojas, Rodriguez and Hogan",Empresa,Corporativo,2012-07-12,0,Oeste,3011573.31,0,Dennis Rojas,Sucursal 11 - Centro,True
+734DB27B,"Coffey, Gill and Lee",PYME,Diamante,2016-12-03,0,Sur,1893774.51,716,Sherry Ball,Sucursal 6 - Oeste,True
+4D7C07A4,"Watson, Wells and Mcbride",PYME,Nuevo,2022-05-21,0,Norte,4223731.61,556,Kristin Elliott,Sucursal 4 - Norte,True
+B7FD74BD,"Little, Mclaughlin and Sanchez",Empresa,Platino,2020-03-17,0,Oeste,1437174.77,0,Connor Ellis,Sucursal 19 - Norte,False
+1B620EC4,Richard Meyer,Individual,Corporativo,2011-05-09,76,Internacional,248123.7,322,Peter Johnson,Sucursal 1 - Oeste,False
+DF964E26,Matthew Lowe,Jubilado,Diamante,2012-07-10,62,Metropolitana,1395147.51,0,Tiffany Chavez,Sucursal 6 - Oeste,True
+F4C4A17E,Kerr Group,PYME,Institucional,2022-02-03,0,Norte,1908159.63,330,Jeremy Lane,Sucursal 4 - Norte,False
+50179378,Jeffery Lewis,Estudiante,Bronce,2016-10-26,37,Internacional,996522.21,0,David Wilson,Sucursal 16 - Centro,False
+DC67B366,Ortiz Group,Gobierno,Oro,2014-10-21,0,Este,2050758.31,0,Kristin Elliott,Sucursal 16 - Centro,False
+20872CA5,"Kelley, Lawrence and Young",ONG,Oro,2014-07-28,0,Centro,4095776.89,0,Christopher Peterson,Sucursal 1 - Oeste,True
+59FFC2DD,Esparza-Williams,ONG,Oro,2015-04-15,0,Internacional,642745.68,0,Deborah Fitzgerald,Sucursal 2 - Sur,False
+D4552D30,Eric Murphy,Jubilado,Diamante,2016-06-10,42,Centro,4467156.29,0,Connor Ellis,Sucursal 17 - Norte,True
+D5EB6E34,Johnson Ltd,PYME,Platino,2023-05-15,0,Metropolitana,2684784.95,417,William Carpenter,Sucursal 10 - Norte,False
+08D5827F,"Campbell, Clements and Smith",PYME,Institucional,2012-04-07,0,Este,2047714.94,318,Amber Turner,Sucursal 17 - Norte,False
+7C4A0F16,Eric Walter,Jubilado,Diamante,2011-09-14,18,Metropolitana,2058579.32,0,Megan Thomas,Sucursal 6 - Oeste,False
+4B16945B,Shaun Zimmerman,Individual,Diamante,2017-11-20,56,Internacional,90773.94,570,Kristin Elliott,Sucursal 8 - Oeste,False
+67FBE496,Montgomery Inc,Gobierno,Corporativo,2014-09-22,0,Internacional,4850437.68,0,Gina Gill,Sucursal 12 - Sur,True
+D49CC6A6,Merritt Inc,Gobierno,Platino,2015-10-24,0,Norte,2123861.6,0,William Carpenter,Sucursal 10 - Norte,True
+28CC015F,Bonilla-Ashley,Gobierno,Institucional,2015-04-01,0,Sur,1070808.06,0,Jeremy Lane,Sucursal 11 - Centro,False
+C0BBF5CA,Leslie Rice,Individual,Plata,2020-04-06,31,Metropolitana,356311.22,835,Natalie White,Sucursal 8 - Oeste,False
+0AE8D63F,Mitchell and Sons,Empresa,Institucional,2020-04-25,0,Sur,2054958.96,0,Justin Skinner,Sucursal 13 - Centro,False
+380DBDC3,Victor Nelson,Jubilado,Diamante,2023-06-24,47,Internacional,3373156.41,0,Jeremy Lane,Sucursal 18 - Oeste,False
+E6173CA7,Francisco Davis,Individual,Institucional,2016-01-29,52,Internacional,112467.27,535,Lisa Bishop,Sucursal 3 - Este,False
+6B5A88FB,"Perry, Hale and Choi",Empresa,Corporativo,2015-06-09,0,Centro,965387.0,0,Ashley Nielsen,Sucursal 20 - Este,True
+5FD1FA3B,"Hayes, Moore and Williams",Gobierno,Oro,2012-02-19,0,Internacional,2835060.94,0,Brenda Richards,Sucursal 10 - Norte,True
+E8072A33,Stephanie White,Individual,Institucional,2013-06-12,46,Metropolitana,455695.9,750,Amanda Nguyen,Sucursal 17 - Norte,True
+5504530E,Andrews-Adams,Empresa,Oro,2013-09-04,0,Sur,2442065.1,0,Denise Brown,Sucursal 11 - Centro,True
+127B3980,Chad Green,Individual,Bronce,2017-12-19,36,Centro,153099.62,448,Lisa Bishop,Sucursal 12 - Sur,True
+3FBE2490,Mr. Michael Morales,Estudiante,Bronce,2015-07-26,61,Sur,395998.2,0,Gina Gill,Sucursal 5 - Oeste,True
+A029B05A,Alex Johns,Individual,Corporativo,2016-06-21,37,Norte,93370.64,491,Mr. Michael Sutton III,Sucursal 12 - Sur,False
+F96ACED6,Carlson and Sons,ONG,Bronce,2016-11-06,0,Oeste,3259419.67,0,Anthony Andrews,Sucursal 10 - Norte,True
+F49D86A9,Johnson-Stanley,ONG,Corporativo,2022-12-19,0,Sur,2898283.29,0,Anthony Andrews,Sucursal 10 - Norte,False
+5A74E731,Myers and Sons,ONG,Bronce,2011-04-17,0,Centro,2766195.26,0,Theresa Zavala,Sucursal 19 - Norte,True
+B7863E72,Payne-Hubbard,Empresa,Corporativo,2016-04-08,0,Sur,1609497.96,0,Kristin Elliott,Sucursal 12 - Sur,False
+BFC24F4D,Rodney Benson,Estudiante,Plata,2016-07-01,53,Metropolitana,2663632.17,0,John Simpson,Sucursal 19 - Norte,True
+A708D732,Sarah Reid,Estudiante,Bronce,2022-11-11,64,Oeste,3824730.94,0,Joseph Arnold,Sucursal 1 - Oeste,True
+0605906F,Johnson-Mcgrath,Empresa,Platino,2013-09-29,0,Oeste,4142774.81,0,Gregory Nash,Sucursal 12 - Sur,True
+098160AA,Kristin Moss,Estudiante,Institucional,2019-08-21,35,Oeste,1336305.23,0,William Brown,Sucursal 9 - Centro,False
+3A06E8BB,Kevin Hart,Individual,Oro,2023-03-17,53,Centro,272387.81,484,Courtney Davis,Sucursal 2 - Sur,False
+B152A1E1,John Martin,Individual,Platino,2016-03-14,36,Centro,43001.5,662,Lisa Bishop,Sucursal 20 - Este,False
+A102D7BF,James Powers,Estudiante,Bronce,2014-11-02,46,Oeste,2237418.38,0,Anthony Andrews,Sucursal 11 - Centro,True
+4409790D,Nash-Price,ONG,Nuevo,2022-08-22,0,Centro,2222762.32,0,Tiffany Chavez,Sucursal 3 - Este,True
+EBC19672,Villanueva Group,Empresa,Oro,2020-03-02,0,Metropolitana,1128246.3,0,Tiffany Chavez,Sucursal 10 - Norte,True
+3367BA88,Lydia Carlson,Estudiante,Platino,2023-10-25,29,Este,3397589.36,0,Ernest Brown,Sucursal 15 - Sur,False
+08A41983,Evan Luna,Jubilado,Plata,2010-06-04,50,Sur,2333446.25,0,Jeremy Lane,Sucursal 2 - Sur,True
+C7958400,Mayer and Sons,ONG,Plata,2019-03-31,0,Este,1991866.18,0,Megan Thomas,Sucursal 1 - Oeste,False
+CB7C1B30,Angelica Espinoza,VIP,Bronce,2012-02-23,46,Norte,3185364.73,0,Mr. Michael Sutton III,Sucursal 16 - Centro,False
+18500A8A,White-Edwards,PYME,Platino,2014-07-09,0,Metropolitana,3916763.9,754,Lisa Bishop,Sucursal 9 - Centro,True
+18A575BE,"Scott, Holmes and Burke",PYME,Platino,2013-12-21,0,Oeste,103411.41,665,Gina Gill,Sucursal 16 - Centro,False
+DA645DFC,Mcdonald-Vincent,ONG,Institucional,2021-05-13,0,Sur,482257.51,0,Lauren Haynes,Sucursal 7 - Norte,True
+EA334F86,Matthew King,Individual,Nuevo,2021-10-12,79,Este,26893.26,374,Stephen George,Sucursal 19 - Norte,True
+381A5BF4,Michael Harrison,Estudiante,Corporativo,2017-01-21,29,Este,309920.7,0,William Carpenter,Sucursal 19 - Norte,True
+E0ED1F43,Hernandez-Rice,Empresa,Bronce,2018-01-14,0,Sur,4342545.09,0,Scott Warner,Sucursal 12 - Sur,False
+5A0C61BE,Allison Robbins,Individual,Diamante,2016-05-28,37,Oeste,365781.02,379,Jared Herman,Sucursal 19 - Norte,False
+B7A3C854,Holland-Miller,ONG,Corporativo,2010-10-10,0,Este,1032490.32,0,Theresa Zavala,Sucursal 20 - Este,True
+CF2DE6CC,Johnson PLC,PYME,Plata,2011-05-11,0,Norte,1649292.06,458,John Simpson,Sucursal 9 - Centro,True
+C7F08053,"Mckinney, Lopez and Arnold",Gobierno,Bronce,2014-08-24,0,Metropolitana,3137391.0,0,Stephen George,Sucursal 13 - Centro,True
+50D812EA,"Adams, Ryan and Moore",Empresa,Nuevo,2017-10-13,0,Centro,2410621.55,0,Amanda Nguyen,Sucursal 9 - Centro,False
+9EAEB198,Denise Spencer,VIP,Bronce,2011-10-14,50,Internacional,4769472.49,0,Timothy Robertson,Sucursal 6 - Oeste,True
+A25059AB,Pena-Cole,ONG,Platino,2019-07-25,0,Metropolitana,1784100.62,0,Timothy Robertson,Sucursal 13 - Centro,False
+AA6C508F,Jeffrey Martin,Estudiante,Nuevo,2022-08-29,33,Este,3472076.6,0,Scott Warner,Sucursal 17 - Norte,True
+A49B8F57,Aaron Rodriguez,VIP,Corporativo,2014-09-06,39,Norte,3014211.71,0,Amber Turner,Sucursal 2 - Sur,False
+6CC698CA,"Daniels, Rangel and Moore",Empresa,Platino,2018-12-08,0,Sur,4288717.49,0,Christopher Peterson,Sucursal 12 - Sur,False
+14A30ABD,Emily Dalton,VIP,Plata,2018-06-16,30,Norte,2047855.15,0,Lisa Bishop,Sucursal 10 - Norte,False
+3D7AAA2D,"Bryant, Evans and Davis",Gobierno,Plata,2022-11-11,0,Este,920072.13,0,Tiffany Chavez,Sucursal 1 - Oeste,True
+9D0BC37B,Cameron Fox,Jubilado,Diamante,2010-10-04,50,Oeste,4314269.1,0,Timothy Robertson,Sucursal 16 - Centro,True
+840F0271,Christine Welch,VIP,Platino,2022-12-24,44,Oeste,4930291.6,0,John Simpson,Sucursal 19 - Norte,False
+2AB5D455,"Thomas, Sheppard and Spence",ONG,Diamante,2019-07-06,0,Centro,3498273.7,0,Timothy Robertson,Sucursal 1 - Oeste,True
+F0EC7B80,Vazquez-Martinez,Gobierno,Bronce,2017-08-06,0,Sur,4082860.37,0,Jason Jones,Sucursal 6 - Oeste,False
+7BF6E156,Kaufman PLC,PYME,Oro,2013-06-15,0,Centro,2487192.93,479,Ashley Nielsen,Sucursal 10 - Norte,False
+FA7852AC,Martin Williams,VIP,Corporativo,2021-03-09,36,Norte,483927.12,0,Jared Herman,Sucursal 18 - Oeste,True
+EF4CA27F,Dorothy Garza,VIP,Plata,2010-12-02,35,Internacional,121175.52,0,Peter Johnson,Sucursal 6 - Oeste,False
+10C1E8F2,Kayla White,Jubilado,Bronce,2017-09-07,60,Metropolitana,3552975.95,0,Mr. Michael Sutton III,Sucursal 11 - Centro,True
+EDB6CA1D,James Arroyo,Jubilado,Nuevo,2023-02-02,50,Oeste,3512813.17,0,Scott Warner,Sucursal 5 - Oeste,True
+F4F04F47,Wayne Ellis,Individual,Plata,2020-04-23,53,Internacional,448603.91,752,Kristin Elliott,Sucursal 14 - Norte,False
+629E0D3E,Emily Smith,Jubilado,Oro,2014-10-06,51,Oeste,1825803.1,0,Courtney Davis,Sucursal 5 - Oeste,True
+FA5A5194,Carter Inc,ONG,Corporativo,2013-10-01,0,Sur,935454.56,0,Tasha Ferguson,Sucursal 10 - Norte,False
+ED2E5C17,Mills-Chen,Gobierno,Nuevo,2010-08-28,0,Internacional,3784487.94,0,Kelly Floyd,Sucursal 11 - Centro,False
+3F3BC831,Garcia Inc,Empresa,Oro,2022-12-05,0,Internacional,1030384.88,0,David Wilson,Sucursal 17 - Norte,False
+0D1FEAE6,Brian Allen,VIP,Diamante,2015-07-15,63,Oeste,259830.18,0,Brenda Richards,Sucursal 18 - Oeste,False
+11E92C9E,Michele Guzman,VIP,Plata,2022-03-08,55,Norte,4908446.81,0,Courtney Davis,Sucursal 17 - Norte,True
+5FA8BE75,Jackie Chung,Individual,Plata,2020-10-03,40,Sur,468759.89,343,Connor Ellis,Sucursal 15 - Sur,True
+F549B4EB,Danielle Jones,Jubilado,Diamante,2010-09-27,46,Norte,3852762.84,0,Christopher Peterson,Sucursal 19 - Norte,False
+8CDF726A,King-Jackson,Empresa,Oro,2018-04-16,0,Metropolitana,303126.7,0,Peter Johnson,Sucursal 16 - Centro,False
+7CAAD758,Rachel Stevens,Estudiante,Corporativo,2012-03-31,39,Centro,998101.64,0,Dennis Rojas,Sucursal 11 - Centro,False
+1E8280C1,Alison Harper,Estudiante,Bronce,2016-11-27,57,Metropolitana,3439348.8,0,Jason Miller,Sucursal 10 - Norte,True
+394E3B43,Ortiz Group,Empresa,Institucional,2013-11-21,0,Este,1220980.86,0,Denise Brown,Sucursal 20 - Este,True
+412F8AAD,"Deleon, Warner and Anderson",ONG,Bronce,2021-08-28,0,Internacional,4834443.51,0,Natalie White,Sucursal 11 - Centro,True
+D6EE8023,Kemp-Mills,ONG,Platino,2021-12-20,0,Metropolitana,1454432.89,0,Joseph Arnold,Sucursal 14 - Norte,True
+64222563,"Brown, Miller and Andrews",ONG,Corporativo,2014-10-10,0,Metropolitana,1002820.37,0,Michael Alvarez Jr.,Sucursal 2 - Sur,True
+1B6E64C8,Sarah Evans,Estudiante,Oro,2022-08-21,79,Sur,1416971.56,0,Lisa Bishop,Sucursal 12 - Sur,False
+997D35B6,Bond-Soto,Gobierno,Diamante,2020-07-23,0,Este,3342521.28,0,Joseph Arnold,Sucursal 10 - Norte,False
+C3AC320E,Valencia-Wise,ONG,Institucional,2012-07-14,0,Oeste,2330783.25,0,Denise Brown,Sucursal 12 - Sur,False
+2D91A07B,Courtney Hebert,Estudiante,Plata,2016-12-25,20,Metropolitana,964201.02,0,Juan Hoover,Sucursal 20 - Este,False
+EC62C0AF,Ryan Pollard,Estudiante,Nuevo,2020-03-04,69,Norte,4310030.06,0,Christopher Peterson,Sucursal 19 - Norte,False
+BF46A09A,Kathy Frost,Estudiante,Diamante,2014-06-16,39,Metropolitana,1512881.74,0,Patricia Anderson,Sucursal 13 - Centro,True
+72B7C753,Samuel Avery,VIP,Nuevo,2013-02-18,69,Sur,4128457.32,0,John Simpson,Sucursal 3 - Este,True
+0158480D,Butler LLC,Gobierno,Institucional,2011-03-30,0,Metropolitana,1977380.04,0,John Simpson,Sucursal 13 - Centro,False
+B78E65FE,Jonathan Thompson,Jubilado,Institucional,2010-07-02,29,Oeste,3273136.98,0,Courtney Davis,Sucursal 4 - Norte,False
+08177D83,Kathleen Collins,Estudiante,Institucional,2015-02-12,41,Este,1044654.85,0,Gregory Nash,Sucursal 15 - Sur,False
+0A6CC7DC,Casey Ellis,Jubilado,Diamante,2010-02-13,67,Sur,2030256.26,0,John Simpson,Sucursal 16 - Centro,False
+006A643D,Mckinney Group,Gobierno,Platino,2023-08-05,0,Centro,2060340.78,0,Theresa Zavala,Sucursal 5 - Oeste,True
+C4EFB41A,Dennis Oconnor,Jubilado,Diamante,2019-11-08,71,Oeste,1516131.94,0,Sherry Ball,Sucursal 3 - Este,False
+D4C76850,Davis-James,Gobierno,Corporativo,2015-09-08,0,Metropolitana,983512.36,0,Ashley Nielsen,Sucursal 16 - Centro,True
+1729B37E,"Ward, Washington and Lewis",PYME,Diamante,2015-07-04,0,Metropolitana,4794233.52,322,Kelly Floyd,Sucursal 8 - Oeste,False
+079A0C2F,Horn LLC,Empresa,Nuevo,2012-11-18,0,Metropolitana,3673589.65,0,Larry Moore,Sucursal 17 - Norte,False
+A6F5DBBE,Green-Schultz,Gobierno,Plata,2014-04-06,0,Este,719945.45,0,Darlene Mueller,Sucursal 6 - Oeste,True
+0DCBD218,Cruz-Farmer,Empresa,Diamante,2014-06-10,0,Oeste,1785839.94,0,Kelly Floyd,Sucursal 13 - Centro,True
+2CDBDC69,Julie Singleton,Jubilado,Nuevo,2021-08-09,41,Centro,4748565.69,0,Lisa Bishop,Sucursal 20 - Este,True
+CA1ED263,Rebecca Smith,VIP,Plata,2015-02-07,43,Metropolitana,1375410.16,0,Amber Turner,Sucursal 5 - Oeste,True
+EC73B4B0,Miller-Taylor,Empresa,Institucional,2013-05-06,0,Oeste,4452462.44,0,Lisa Bishop,Sucursal 15 - Sur,True
+F79636FC,Michelle Taylor,Individual,Nuevo,2022-04-30,69,Internacional,262749.37,385,Luis Francis,Sucursal 19 - Norte,False
+74397925,"Cooper, Meyer and Lowe",Gobierno,Institucional,2022-08-27,0,Oeste,4193633.24,0,Deborah Fitzgerald,Sucursal 4 - Norte,False
+AAB54EC6,Don Bell,Estudiante,Nuevo,2010-09-02,56,Internacional,58703.35,0,William Carpenter,Sucursal 16 - Centro,False
+FB193D68,Cassandra White,VIP,Nuevo,2020-01-15,28,Este,1176627.21,0,Lauren Haynes,Sucursal 20 - Este,True
+137ADD45,Ward Ltd,Gobierno,Corporativo,2023-12-09,0,Norte,4089968.77,0,William Brown,Sucursal 1 - Oeste,False
+CAB6DEDE,Tiffany Fuller,VIP,Nuevo,2016-03-22,48,Sur,2610821.39,0,Larry Moore,Sucursal 1 - Oeste,False
+00D8C000,Bennett and Sons,Empresa,Platino,2022-06-06,0,Sur,4180238.95,0,Jared Herman,Sucursal 8 - Oeste,True
+A915074D,Katherine Obrien,Estudiante,Corporativo,2016-07-15,69,Norte,4135195.26,0,Amanda Nguyen,Sucursal 17 - Norte,False
+2E74DD86,Bailey-Williams,ONG,Bronce,2016-04-23,0,Este,4562150.27,0,Ms. Hannah Dixon,Sucursal 8 - Oeste,True
+F65BD1C2,"Reynolds, Collins and Cowan",ONG,Platino,2021-12-28,0,Metropolitana,1576467.41,0,Courtney Davis,Sucursal 15 - Sur,True
+3DD55D67,Jones-Johnson,ONG,Diamante,2018-07-16,0,Metropolitana,4828578.24,0,Natalie White,Sucursal 15 - Sur,True
+50D4DE1D,Jennifer Romero,Jubilado,Bronce,2015-01-08,76,Oeste,2015962.78,0,Ashley Nielsen,Sucursal 19 - Norte,False
+9A262955,Irwin Group,Gobierno,Institucional,2010-05-27,0,Metropolitana,2238764.09,0,Juan Hoover,Sucursal 8 - Oeste,True
+7F767155,Michael Peterson,Estudiante,Corporativo,2018-01-19,41,Internacional,1152268.45,0,Brenda Richards,Sucursal 6 - Oeste,True
+FA76FA81,"Hill, Acevedo and Gutierrez",PYME,Bronce,2016-04-19,0,Oeste,530266.9,541,Larry Moore,Sucursal 11 - Centro,True
+8A42F548,Johnson Inc,Gobierno,Platino,2018-03-06,0,Oeste,283799.23,0,Michael Alvarez Jr.,Sucursal 16 - Centro,False
+0C9536DF,Phillips-Perez,Empresa,Bronce,2011-06-12,0,Norte,4932869.59,0,Robin Oneill,Sucursal 10 - Norte,True
+25739483,Maria Vasquez,Estudiante,Bronce,2023-11-27,79,Oeste,1465372.21,0,Scott Warner,Sucursal 20 - Este,False
+14F335C4,Carl Rodriguez,Jubilado,Platino,2014-06-14,53,Este,873686.52,0,Sherry Ball,Sucursal 1 - Oeste,True
+CFE25307,Linda Berry,VIP,Bronce,2012-06-15,31,Sur,225728.75,0,Connor Ellis,Sucursal 9 - Centro,True
+B1BAF685,"Cunningham, Wright and Jones",ONG,Corporativo,2020-03-08,0,Internacional,2678331.81,0,Dennis Rojas,Sucursal 19 - Norte,False
+62379DEB,Montgomery PLC,PYME,Nuevo,2020-02-24,0,Internacional,531631.61,680,Theresa Zavala,Sucursal 3 - Este,False
+5A3000AF,Barajas Group,PYME,Corporativo,2014-02-13,0,Metropolitana,1747227.95,511,Timothy Robertson,Sucursal 20 - Este,True
+8CCF21E8,"Rose, Hatfield and Peters",ONG,Nuevo,2014-06-01,0,Internacional,898583.07,0,Kelly Floyd,Sucursal 5 - Oeste,False
+C878460C,Barnett Inc,Empresa,Bronce,2020-01-04,0,Metropolitana,1769611.89,0,John Simpson,Sucursal 3 - Este,False
+38C35DB3,Eric Morton,VIP,Bronce,2016-04-20,53,Centro,1842542.9,0,Anthony Andrews,Sucursal 12 - Sur,True
+36B31769,Carl Adams,VIP,Bronce,2011-02-18,23,Metropolitana,2627952.36,0,Lauren Haynes,Sucursal 16 - Centro,False
+41C3DA8B,Amanda Rice,Jubilado,Oro,2017-07-02,71,Centro,545810.44,0,David Wilson,Sucursal 8 - Oeste,True
+B68FF605,Clark Group,Gobierno,Nuevo,2013-05-07,0,Norte,3804649.77,0,Robin Oneill,Sucursal 4 - Norte,True
+B004ED20,Terry Calhoun,VIP,Nuevo,2010-03-24,61,Este,2320133.9,0,Larry Moore,Sucursal 6 - Oeste,True
+8B622C77,Robert Cook,Estudiante,Platino,2022-07-02,54,Sur,1722653.16,0,Lauren Haynes,Sucursal 9 - Centro,False
+90FD6F86,Mr. Larry Sparks,Estudiante,Corporativo,2014-07-04,60,Oeste,2501014.86,0,Deborah Fitzgerald,Sucursal 8 - Oeste,True
+55529077,"Washington, Spencer and Curtis",PYME,Plata,2021-05-26,0,Sur,339702.32,353,Natalie White,Sucursal 14 - Norte,False
+7CFBB1CA,"Wilcox, Warner and West",PYME,Bronce,2010-04-16,0,Norte,3653835.25,445,Connor Ellis,Sucursal 16 - Centro,True
+EB473598,Laura Velez,VIP,Diamante,2013-12-13,42,Este,2489351.83,0,Christopher Peterson,Sucursal 15 - Sur,True
+42CF5062,"Potter, Lambert and Donovan",PYME,Oro,2021-02-23,0,Metropolitana,4022921.65,456,Luis Francis,Sucursal 17 - Norte,False
+4ECEF852,Robinson-Campbell,ONG,Corporativo,2010-05-24,0,Norte,1925971.27,0,David Wilson,Sucursal 3 - Este,True
+B8E94C95,"White, Charles and Anderson",Empresa,Corporativo,2015-07-30,0,Este,2718134.57,0,Jeremy Lane,Sucursal 8 - Oeste,True
+27A892F5,John Roberts,Individual,Oro,2019-01-10,75,Norte,439364.03,633,Michael Alvarez Jr.,Sucursal 14 - Norte,True
+1CA1D640,Jonathan Peterson,VIP,Nuevo,2022-09-10,37,Oeste,4727762.85,0,Juan Hoover,Sucursal 15 - Sur,False
+0D1CE7CE,Carla Taylor,Jubilado,Plata,2017-12-08,34,Oeste,1593892.38,0,Megan Thomas,Sucursal 12 - Sur,False
+AADC7F55,Raven Holloway,Jubilado,Plata,2012-05-17,57,Centro,3531846.46,0,Connor Ellis,Sucursal 1 - Oeste,True
+7831174C,Amy Smith,Individual,Nuevo,2023-11-15,51,Norte,177164.9,651,Robin Oneill,Sucursal 17 - Norte,False
+5093E5FE,"Perry, Bell and Buchanan",Empresa,Diamante,2016-09-25,0,Metropolitana,3204277.32,0,Patricia Anderson,Sucursal 14 - Norte,False
+3EC91CFD,Robert Williams,Jubilado,Nuevo,2010-11-26,62,Oeste,1408554.13,0,Jeremy Lane,Sucursal 12 - Sur,True
+9EFCF713,Goodman Ltd,Empresa,Plata,2020-02-27,0,Oeste,2655645.13,0,Justin Skinner,Sucursal 13 - Centro,True
+06187A81,Atkinson-Clark,ONG,Corporativo,2012-07-13,0,Metropolitana,1095935.07,0,Ashley Nielsen,Sucursal 6 - Oeste,False
+AE786797,"Jensen, Garcia and Terry",ONG,Bronce,2020-07-25,0,Este,844028.33,0,Darlene Mueller,Sucursal 12 - Sur,False
+C273E1BC,Fox PLC,Empresa,Corporativo,2012-11-20,0,Oeste,4607950.12,0,Stephen George,Sucursal 8 - Oeste,True
+6745A60F,Richard Sanford,VIP,Institucional,2015-02-22,25,Sur,1626031.39,0,John Simpson,Sucursal 7 - Norte,False
+196400E0,Kenneth Johnson,Estudiante,Diamante,2010-12-09,56,Sur,754870.32,0,Deborah Fitzgerald,Sucursal 6 - Oeste,False
+AEA138FA,Brian Poole,VIP,Corporativo,2020-10-01,70,Norte,4129280.52,0,Michael Alvarez Jr.,Sucursal 16 - Centro,True
+62DC2F8E,Jones PLC,Gobierno,Nuevo,2016-03-25,0,Este,2050529.05,0,Jared Herman,Sucursal 18 - Oeste,False
+CB7FF75C,West LLC,Gobierno,Institucional,2022-07-29,0,Internacional,4034669.01,0,Sherry Ball,Sucursal 7 - Norte,False
